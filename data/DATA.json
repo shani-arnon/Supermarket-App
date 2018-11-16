@@ -1,0 +1,6128 @@
+{
+    "store": {
+        "name": "Oriient store",
+        "xLength": 20,
+        "yLength": 13
+    },
+    "products": [
+        {
+            "productNumber": "081563575",
+            "name": "Trebor Mighties Sugar Free Mints 12.5G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "082873431",
+            "name": "M&Ms Peanut Pouch 140G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "072008965",
+            "name": "Frylight Sunflower Oil Spray 190Ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "052502617",
+            "name": "Tesco Roasted Salted Pistachio Nuts 150G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050435475",
+            "name": "Tesco Semi Skimmed Longlife Milk 1 Litre",
+            "shelf": 5
+        },
+        {
+            "productNumber": "051562339",
+            "name": "English Provender Very Lazy Garlic 200G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "083706139",
+            "name": "Mcvities Digestive Milk Chocolate Nibbles 37G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050084394",
+            "name": "Tic-Tac Refreshing Mint 18G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "051261958",
+            "name": "Butterkist Cinema Sweet Popcorn 100G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "070701389",
+            "name": "Ella's Spagi Bolognese Stage 2 130G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "064872125",
+            "name": "Tesco No Added Sugar Swiss Style Muesli 1Kg",
+            "shelf": 3
+        },
+        {
+            "productNumber": "077853203",
+            "name": "Nakd Bakewell Tart 35G Bar",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050750965",
+            "name": "Tesco Chocolate Filled Crepes 8Pk",
+            "shelf": 5
+        },
+        {
+            "productNumber": "083266313",
+            "name": "Tesco 9 Chocolate Bean Shortbread Bites108g",
+            "shelf": 6
+        },
+        {
+            "productNumber": "057601544",
+            "name": "Tesco Finest Quadruple Chocolate Cookies 200G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "067880681",
+            "name": "Pain Au Chocolat",
+            "shelf": 8
+        },
+        {
+            "productNumber": "084901897",
+            "name": "Cornetto Classico Ice Cream Cone 125Ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "081748714",
+            "name": "Mars Milk No Added Sugar 400Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "084903549",
+            "name": "Skittles Fruits White Pouch 196G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "051820386",
+            "name": "Rowse Squeezy Clear Honey 340G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "079698429",
+            "name": "Blue Dragon 3 Step Thai Green Curry 253G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "082783059",
+            "name": "NESTLE SHREDDED WHEAT CRL 360G (16S)",
+            "shelf": 6
+        },
+        {
+            "productNumber": "067614393",
+            "name": "Volvic Touch Of Fruit Strawberry 750Ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "084981207",
+            "name": "Haribo Tangfastic 190G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "051729748",
+            "name": "Old El Paso Regular Super Soft Flour Tortillas 8Pk 326G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "050043633",
+            "name": "Oxo 12 Beef Stock Cubes 71G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "067756627",
+            "name": "Cadbury Twirl Bite Size 109G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "083266296",
+            "name": "Tesco White Chocolate And Raspberry Jelly Cluster 88G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "084461832",
+            "name": "L'oreal Elvive Colour Protect Coloured Hair Shampoo 500Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "073954401",
+            "name": "Squashies Drumsticks 160 G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "066082377",
+            "name": "Kelloggs Strawberry Winders 17G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "053688602",
+            "name": "Jordans Country Crisp Chunky Nut 500G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "063722841",
+            "name": "Nivea Sun Childrens Pocket Size SPF50 50 ML",
+            "shelf": 1
+        },
+        {
+            "productNumber": "084282303",
+            "name": "Tesco Maris Piper P/toes 1.5kg (C)",
+            "shelf": 2
+        },
+        {
+            "productNumber": "060507024",
+            "name": "Tesco 2 Chicken Mini Roast With Gravy 505G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "083303593",
+            "name": "Quaker Porridge To Go Golden Syrup 55G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "081543602",
+            "name": "Tesco Chocolate Biscuit Assortment 450G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "071631245",
+            "name": "Tesco Snacking Nut And Chocolate Mix 60G (C)",
+            "shelf": 6
+        },
+        {
+            "productNumber": "079583369",
+            "name": "Kabuto Noodles Vegetable Laksa 85G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "058974083",
+            "name": "Cadbury Flake 4 Pack 102G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "051086540",
+            "name": "Ambre Solaire Kids Sun Screen Lotion SPF50+ 200ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "061322367",
+            "name": "Cadbury Brunch Chocolate Chip 192G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "051025227",
+            "name": "Barratts Jumbo Soft Nougat 100G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "067640021",
+            "name": "Tesco Baking Potatoes 2.5Kg (C)",
+            "shelf": 4
+        },
+        {
+            "productNumber": "072568111",
+            "name": "Tesco Wholefoods Medjool Dates 180G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "080052375",
+            "name": "Jimmy's Iced Coffee Mocha 330Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "071092191",
+            "name": "Kit Kat Chunky Peanut Butter Chocolate Bar 42G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050826744",
+            "name": "Robinsons Apple Blackcurrant No Added Sugar 1L",
+            "shelf": 8
+        },
+        {
+            "productNumber": "052505194",
+            "name": "Old El Paso Smoky Bbq Fajita Seasoning Mx 35G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "085487590",
+            "name": "Aptamil 2 Follow On Milk Powder 800G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "067655499",
+            "name": "Tesco Mini Flapjack Bites 20 Pack",
+            "shelf": 3
+        },
+        {
+            "productNumber": "051177939",
+            "name": "Fry's Turkish Delight Chocolate Bar 51G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "062476269",
+            "name": "Reeses Peanut Butter Cups 3 Pack 51G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "067681179",
+            "name": "TENA Liner 25",
+            "shelf": 6
+        },
+        {
+            "productNumber": "080032445",
+            "name": "Simply Doughnuts 8 Mini Sugar Ring Doughnuts",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050043898",
+            "name": "Tesco Cornflour 250G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "067850129",
+            "name": "Tesco Organic Cucumber Each",
+            "shelf": 1
+        },
+        {
+            "productNumber": "055214366",
+            "name": "Seeds Of Change Organic Sun Dried Tomato And Basil 195G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "082477128",
+            "name": "TIGER BAGUETTE 400G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "080644493",
+            "name": "Sma Pro Follow-On Milk 6Mth+ 800G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "052786303",
+            "name": "Haribo Starmix Handy Pack 50G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "071862858",
+            "name": "Doritos Chilli Heatwave Grab Bag 55G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "077586922",
+            "name": "Nestle Gofree Cornflakes Gluten Free Cereal 500G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "080080076",
+            "name": "Kind Dark Chocolate Nuts And Sea Salt 40G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "085532062",
+            "name": "Oreo Thins Vanilla 192G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "050313579",
+            "name": "Lemons Each",
+            "shelf": 2
+        },
+        {
+            "productNumber": "079778335",
+            "name": "Tesco Boneless Smoked Haddock 280G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "067880237",
+            "name": "CIABATTA ROLL",
+            "shelf": 4
+        },
+        {
+            "productNumber": "081782661",
+            "name": "Finest Goats Che/Chilli Healthy Choice Crisps 40G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "053982651",
+            "name": "Nandos Medium Peri Peri Sauce 125G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "072358671",
+            "name": "Tesco Millionaire Shortbread 60G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "076420014",
+            "name": "Innocent Super Smoothie Invigorate 360Ml",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050082298",
+            "name": "Cadbury Milk Tray Boxed Chocolates 360G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "083363561",
+            "name": "Innocent Apple Pear And Cucumber Super Juice 360Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "081300991",
+            "name": "New York Bakery Cinnamon And Raisin Bagel 5 Pack",
+            "shelf": 3
+        },
+        {
+            "productNumber": "076296938",
+            "name": "Dr.Oetker Bicarbonate Soda 200G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "064721898",
+            "name": "Barratt Sherbert Fountain 25G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "081102062",
+            "name": "John West Salmon Infusions Sweet Chilli 80G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "064723061",
+            "name": "Tesco Finest Unsmoked Wiltshire Back Bacon 240G (C)",
+            "shelf": 7
+        },
+        {
+            "productNumber": "051351854",
+            "name": "Tesco Rainforest Alliance Milk Chocolate Bar 150G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "067877806",
+            "name": "6 PACK CRUSTY WHITE ROLLS",
+            "shelf": 1
+        },
+        {
+            "productNumber": "071340480",
+            "name": "Kingsmill 50/50 400G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "059421454",
+            "name": "Wholefood Dried Mango 100G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "057330576",
+            "name": "Tesco 4 Homebake Baguettes 600G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050433903",
+            "name": "Batchelors Super Noodles Chicken 100G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "050083988",
+            "name": "Polo Mints Single",
+            "shelf": 6
+        },
+        {
+            "productNumber": "066131458",
+            "name": "Pepsi Max 8X330ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "054288803",
+            "name": "Uncle Bens Classic Long Grain Rice 250G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "056874331",
+            "name": "Innocent Strawberries And Bananas 250Ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "076297217",
+            "name": "Tesco Salad Tomatoes 360G (C)",
+            "shelf": 2
+        },
+        {
+            "productNumber": "054905437",
+            "name": "Cadbury Curly Wurly 5 Pack 130G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "061368589",
+            "name": "Kinder Bueno White 43G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050042778",
+            "name": "Tesco Table Salt 750G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "050353306",
+            "name": "Cadbury Dairy Milk Fruit And Nut Chocolate Bar 200G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "063818711",
+            "name": "Colgate Total Advanced Toothpaste 125Ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050083798",
+            "name": "Twix Twin Bar 50G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "051784278",
+            "name": "Fixodent Adhesive Cream Original 47G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "067330244",
+            "name": "Quaker Oat So Simple Apple And Blueberry Porridge 57G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "076982938",
+            "name": "Genius Gluten Free 4 Crumpets",
+            "shelf": 3
+        },
+        {
+            "productNumber": "061205253",
+            "name": "Tesco Mini Watermelon Each",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050211728",
+            "name": "Tesco Red Pepper Each (C)",
+            "shelf": 5
+        },
+        {
+            "productNumber": "080644533",
+            "name": "Sma Pro First Infant Milk From Birth 800G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "056522201",
+            "name": "Corsodyl Mint Mouthwash 300Ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "070800560",
+            "name": "Cadbury Dairy Milk Freddo 6 Bars 108G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "067614548",
+            "name": "Volvic Touch Of Fruit Lemon And Lime 750Ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "063719569",
+            "name": "Crespo Pitted Black Olives 354G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "051173961",
+            "name": "Sarsons Malt Vinegar 250Ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "050610020",
+            "name": "Tesco Californian Seedless Raisins 500G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "080808974",
+            "name": "Mcvities Digestive Nibbles Milk Chocolate 120G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "050771681",
+            "name": "Sacla Classic Basil Pesto 190G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "050475761",
+            "name": "Whitworths Sunny Raisin 6 X42.5G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "051298646",
+            "name": "Tesco Loves Baby Large Cotton Wool Balls 100S",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050750913",
+            "name": "Tesco Brioche Chocolate Chip Rolls 8Pk",
+            "shelf": 1
+        },
+        {
+            "productNumber": "067879793",
+            "name": "Vanilla Creme Crown",
+            "shelf": 2
+        },
+        {
+            "productNumber": "082841613",
+            "name": "Lindt Excellence Dark Roasted Hazelnut Chocolate Bar 100G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "054560665",
+            "name": "Kinder Bueno Bar 43G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "079402504",
+            "name": "Tesco Rock Salt Grinder 100G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "052814156",
+            "name": "John West Anchovies In Olive Oil 100G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "050592368",
+            "name": "Alpen Original Muesli 750G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "071376794",
+            "name": "Purdeys Rejuvenation Fruit Drink 330Ml",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050353479",
+            "name": "Cadbury Bournville Dark Chocolate Bar 200G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "081288889",
+            "name": "Simply Doughnuts 6 Mini Bites Classic Strawberry Jam",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050060664",
+            "name": "Kelloggs Variety Pack Cereal 8Pk",
+            "shelf": 3
+        },
+        {
+            "productNumber": "052271019",
+            "name": "Barratt Flumps 12G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "064078196",
+            "name": "Rowntrees Random Bag 50G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "057065227",
+            "name": "Eat Natural Gold Cranberry And Macadamia Fruit Bar 45G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "067651532",
+            "name": "Mary Berrys Light Salad Dressing 235Ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "085038581",
+            "name": "Boswell Farm Beef Steak 227G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "052770166",
+            "name": "Fanta Orange 6 X 330Ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "054526540",
+            "name": "Tesco Ibuprofen 200Mg 16 Caplets",
+            "shelf": 2
+        },
+        {
+            "productNumber": "064721783",
+            "name": "Barratt Refresher Roll Single",
+            "shelf": 3
+        },
+        {
+            "productNumber": "067381373",
+            "name": "Tesco Finest Nut Granola 500G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "083679308",
+            "name": "Heritage Breeds Copper Marans Eggs 4 Pack",
+            "shelf": 5
+        },
+        {
+            "productNumber": "058071990",
+            "name": "Lindt Excellence Dark Orange Intense Chocolate Bar 100G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "051181300",
+            "name": "Galaxy Ripple Bar 33G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "080306652",
+            "name": "Propercorn Peanut Butter And Almond 25G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050647748",
+            "name": "Tunnocks Milk Chocolate Teacakes 6X24g",
+            "shelf": 1
+        },
+        {
+            "productNumber": "054321943",
+            "name": "Tesco Finest Chocolate Cake",
+            "shelf": 2
+        },
+        {
+            "productNumber": "062443084",
+            "name": "Walkers Cheese And Onion 6X25g (C)",
+            "shelf": 3
+        },
+        {
+            "productNumber": "076539134",
+            "name": "THREE CHEESE BREAD",
+            "shelf": 4
+        },
+        {
+            "productNumber": "083610471",
+            "name": "Kit Kat 2 Finger Milk Chocolate Biscuits 9 Pack 186.3G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "063807252",
+            "name": "Walkers Sunbites Sun Ripenedsweet Chilli 6 X 25G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "050112932",
+            "name": "Savlon Antiseptic Cream 30 G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "059089714",
+            "name": "Wrigleys Hubba Bubba Triple Tape",
+            "shelf": 8
+        },
+        {
+            "productNumber": "082873448",
+            "name": "M&Ms Peanut Pouch 250G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "082476763",
+            "name": "Tesco Finest White Chocolate And Honeycomb Cookie 4 Pack",
+            "shelf": 2
+        },
+        {
+            "productNumber": "063689782",
+            "name": "T.Granny Smith Apples Each Class 1 (C)",
+            "shelf": 3
+        },
+        {
+            "productNumber": "067880462",
+            "name": "Almond Croissant (C)",
+            "shelf": 4
+        },
+        {
+            "productNumber": "078938557",
+            "name": "Tesco Petit Pain 4 pk",
+            "shelf": 5
+        },
+        {
+            "productNumber": "056919372",
+            "name": "Tesco Braeburn Apples Each Class 1 (C)",
+            "shelf": 6
+        },
+        {
+            "productNumber": "070987983",
+            "name": "Alpro Almond Longlife Milk Alternative 1L",
+            "shelf": 7
+        },
+        {
+            "productNumber": "057433316",
+            "name": "Tesco Brown Onions 485G (C)",
+            "shelf": 8
+        },
+        {
+            "productNumber": "078939199",
+            "name": "Tesco British Chicken Drumsticks 600G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "083665852",
+            "name": "Mr Kipling Gluten Free Brownie Slice 4 Pack",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050082661",
+            "name": "Terrys Orange Milk Christmas Sleeve 175G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "050552468",
+            "name": "Dolmio Bolognese Original Pasta Sauce 500G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050083752",
+            "name": "Mars Single 51G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "064217021",
+            "name": "Smint Peppermint 35G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "080918360",
+            "name": "Chupa Chups Sugar Free Lolly 11G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "073889904",
+            "name": "John West Tuna Chilli And Garlic Infusions 80G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "076343895",
+            "name": "Mcvities Chocolate Digestive Slice",
+            "shelf": 1
+        },
+        {
+            "productNumber": "052550588",
+            "name": "Carex Handwash Aloe Vera 250Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "060854326",
+            "name": "Doritos Cool Original Tortilla Chips 180G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "053830181",
+            "name": "Doves Farm Gluten Free Plain Flour 1Kg",
+            "shelf": 4
+        },
+        {
+            "productNumber": "083103109",
+            "name": "Innocent Bubbles Orange And Lime 330Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "074057344",
+            "name": "Pampers New Baby Size 1 Carry Pack - 23 nappies",
+            "shelf": 6
+        },
+        {
+            "productNumber": "064618710",
+            "name": "Tommee Tippee Closer To Nature Feeding Bottle 260ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "074593653",
+            "name": "Tesco All Butter Flapjack 60G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "058547318",
+            "name": "Barratts Dip Dabs 23G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "058770813",
+            "name": "Yorkshire Tea Decaffeinated 80 Teabags 250G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "080845733",
+            "name": "Ben And Jerry Wich Cookie Dough Ice Cream Sandwich 80Ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "082934095",
+            "name": "Colmans Bramley Apple Sauce 155G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "078383112",
+            "name": "Capri Sun No Added Sugar Blackcurrant 5X200ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "067880721",
+            "name": "Tesco Cinnamon Roll(C) Each",
+            "shelf": 6
+        },
+        {
+            "productNumber": "074875660",
+            "name": "Tesco Red Onions Each (C)",
+            "shelf": 7
+        },
+        {
+            "productNumber": "082629629",
+            "name": "L' Or. Coffee Classique 100G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "083603186",
+            "name": "Mcvities Jaffa Cakes 10 Pack",
+            "shelf": 1
+        },
+        {
+            "productNumber": "065381445",
+            "name": "Kelloggs Krave Cereal 375G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "074525067",
+            "name": "Bear Pure Fruit Yoyos Mango 20G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "057185428",
+            "name": "Nivea For Women Pearl And Beauty Antiperspirant Deodorant 150Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "054225078",
+            "name": "Blue Dragon Coconut Milk 400Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "050404224",
+            "name": "Tesco Soft Figs 250G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "050057876",
+            "name": "Robertsons Golden Shred Marmalade 454G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "084461005",
+            "name": "Rowntrees Mixed Pouch Bag 150G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050056537",
+            "name": "Cadbury Fair Trade Drinking Chocolate Add Milk 500G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "077426715",
+            "name": "Glaceau Smartwater 600Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "055151013",
+            "name": "Soreen Fruity Malt Loaf Snack 2 Pack",
+            "shelf": 3
+        },
+        {
+            "productNumber": "053524518",
+            "name": "Tesco Top Down Tomato Ketchup 550G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050330443",
+            "name": "Knorr Vegetable Stock Cubes 8 X 10G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "050550608",
+            "name": "Walkers Ready Salted Crisps 32.5G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "071631366",
+            "name": "Tesco Cashews Snacking 45G (C)",
+            "shelf": 7
+        },
+        {
+            "productNumber": "080475018",
+            "name": "Tesco Wholemeal Bread 440G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050859313",
+            "name": "Tesco Genoa Cake Each",
+            "shelf": 1
+        },
+        {
+            "productNumber": "084902850",
+            "name": "Munchies Pouch Bag 104G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "063820517",
+            "name": "Colgate Max White Toothbrush Medium",
+            "shelf": 3
+        },
+        {
+            "productNumber": "052567868",
+            "name": "Kallo Organic Lightly Salted Wholegrain Rice Cake 130G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "052862582",
+            "name": "Tesco Ready To Eat Prunes 500G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "051577973",
+            "name": "Bodyform Ultra Normal Wing Sanitary Towels 14 Pack",
+            "shelf": 6
+        },
+        {
+            "productNumber": "085185440",
+            "name": "Mars 4 Pack 157.6G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "078664696",
+            "name": "Ribena Blackcurrant 850Ml",
+            "shelf": 8
+        },
+        {
+            "productNumber": "078681444",
+            "name": "Kraft Oreo Sandwich 135Ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "051197587",
+            "name": "Pizza Express House Light Salad Dressing 235Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050533013",
+            "name": "Kit Kat 4 Finger Milk Chocolate Bar 41.5G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "054003491",
+            "name": "Nestle Kit Kat Chunky 50G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "051686786",
+            "name": "Walkers Prawn Cocktail Crisps 32.5G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "082703305",
+            "name": "Maynards Bassetts Wine Gums Tangy 165G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "064725237",
+            "name": "Tesco Unsmoked Streaky Bacon 300G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "059345008",
+            "name": "Nescafe Gold Blend 100G (C)",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050174648",
+            "name": "Heinz Top Down Squeezy Tomato Ketchup Scc 700G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "081767412",
+            "name": "Tesco Organic Gala Apples 630G (C)",
+            "shelf": 2
+        },
+        {
+            "productNumber": "057496454",
+            "name": "Ambre Solaire Moisturising Lotion SPF30 200ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "055800110",
+            "name": "Extra Cool Breeze Gum 10 Pieces",
+            "shelf": 4
+        },
+        {
+            "productNumber": "084656743",
+            "name": "Tesco Golden Fruit And Nut Mix 25G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "062565043",
+            "name": "Lucozade Energy Orange 500Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "076037336",
+            "name": "Garnier Ambre Solaire Dry Mistspf 30 200Ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "061351234",
+            "name": "Silvikrin Maximum Hold Hair Spray 400Ml",
+            "shelf": 8
+        },
+        {
+            "productNumber": "078938626",
+            "name": "Tesco Panini",
+            "shelf": 1
+        },
+        {
+            "productNumber": "083090255",
+            "name": "Maoam Stripes 170G Bag",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050499214",
+            "name": "Ferrero Rocher 24 Pieces Boxed Chocolates 300G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "064169198",
+            "name": "Taylors Rich Italian Coffee Beans 227G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "072067784",
+            "name": "Tyrrells Mixed Root Vegetable Crisps 40G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "051666240",
+            "name": "Tesco Smoked Back Bacon 10 Rashers 300G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "061473493",
+            "name": "Listerine Total Care Mouthwash 250Ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "054926314",
+            "name": "Tesco 16 Seafood Sticks 250G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "080762652",
+            "name": "Feast Snack Bar Chocolate Ice Cream 90Ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "084656668",
+            "name": "Tesco Cashew Shot 25G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "084460902",
+            "name": "Rowntrees Fruit Gums Pouch 150G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "082782763",
+            "name": "KELLOGGS SPECIAL K 500G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050160768",
+            "name": "Heinz Top Down Squeezt Tomato Ketchup Scc 460G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "080502609",
+            "name": "Nescafe Gold Cappuccino Coffee 10 X 17G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "084743058",
+            "name": "Diet Coke Mango 500Ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "074035301",
+            "name": "Propercorn Sweet And Salty 90G Sharing Bag",
+            "shelf": 8
+        },
+        {
+            "productNumber": "051761910",
+            "name": "Caster Sugar 500G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "063675781",
+            "name": "Herbal Essences Conditioner Dazzling Shine 400Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "080965202",
+            "name": "Hershey's Cookie & Creme Chocolate Bar 43G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "083600840",
+            "name": "Tesco Milk Chocolate Dipped Viennese Fingers 135G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "084478441",
+            "name": "Bassetts Liquorice Allsorts 190G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "062784267",
+            "name": "Hula Hoops Bbq Grab Bag 50G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "083242825",
+            "name": "Weetabix On The Go Berries 250Ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "083026621",
+            "name": "Mrs Crimble's Double Chocolate Cake Bar 50G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "071902224",
+            "name": "Ella's Kitchen Lovely Lamb Roast Dinner 190G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "050749236",
+            "name": "Tesco Pickled Sliced Beetroot 340G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "059623797",
+            "name": "Organic Cashew Nuts 150G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "051686187",
+            "name": "Tesco Sardines In Sunflower Oil 120G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "065770336",
+            "name": "Pringles Pop And Go Original 40G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "074112671",
+            "name": "Tesco 9 Chocolate Chunk Brownie Bites",
+            "shelf": 6
+        },
+        {
+            "productNumber": "063770040",
+            "name": "Piriteze Allergy Tablets 12S",
+            "shelf": 7
+        },
+        {
+            "productNumber": "075980130",
+            "name": "Voltarol Paineze Emulgel 60G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "051015018",
+            "name": "Ambre Solaire UV Clear Protect Spray  SPF30 200ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "050302362",
+            "name": "Diet Coke 330Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "056794918",
+            "name": "Nivea For Men'/ NIVEA MEN Sensitive Post Shave Balm 100ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "084797028",
+            "name": "Tampax Compak Super Applicator Tampons 18",
+            "shelf": 4
+        },
+        {
+            "productNumber": "051769389",
+            "name": "Carefree Panty Liners Unscented 20 Pack",
+            "shelf": 5
+        },
+        {
+            "productNumber": "063976091",
+            "name": "Cadbury Wispa 4 Pack 120G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "050580405",
+            "name": "Yorkshire 80 Teabags 250G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "070878755",
+            "name": "Lindt Nocciolatte 40G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050417094",
+            "name": "Zovirax Cold Sore Cream 2G Tube",
+            "shelf": 1
+        },
+        {
+            "productNumber": "063174331",
+            "name": "Extra Spearmint Gum 3 Pack",
+            "shelf": 2
+        },
+        {
+            "productNumber": "056613819",
+            "name": "Elastoplast Water Resistant Strips 40S",
+            "shelf": 3
+        },
+        {
+            "productNumber": "060957546",
+            "name": "Warburtons 6 Sliced Sandwich Rolls",
+            "shelf": 4
+        },
+        {
+            "productNumber": "056296894",
+            "name": "Werthers Original Stick 50G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "084526051",
+            "name": "Haribo Giant Strawberrys 190G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "050065906",
+            "name": "Tesco Malted Milk Biscuit 200G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "057223801",
+            "name": "Impulse Tease Bodyspray 75Ml",
+            "shelf": 8
+        },
+        {
+            "productNumber": "053393449",
+            "name": "Old El Paso Smoky Bbq Fajita Dinner Kit 500G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "051583337",
+            "name": "Tesco Italian Original Breadsticks 125G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "083647001",
+            "name": "Ambrosia Rice Pudding 150G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "062463814",
+            "name": "Dove Invisible Dry Deodorant Spray 250ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "059767315",
+            "name": "Tesco Aubergine Each 250G (C)",
+            "shelf": 5
+        },
+        {
+            "productNumber": "076017585",
+            "name": "Weetabix On The Go Vanilla Drink 250Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "084854451",
+            "name": "Tesco Cinnamon & Cocoa Pecan Mix 40g",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050327920",
+            "name": "Go Ahead Yogurt Breaks Forest Fruit 5X35.5G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "082476377",
+            "name": "Gaviscon Double Action Mint 24 Tablets",
+            "shelf": 1
+        },
+        {
+            "productNumber": "078923044",
+            "name": "Tesco Orange Minimum 5 Pack",
+            "shelf": 2
+        },
+        {
+            "productNumber": "067609238",
+            "name": "Tesco Soft Apricots 250G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "054367128",
+            "name": "Nurofen Ibuprofen 200Mg Tablets 16 Pack",
+            "shelf": 4
+        },
+        {
+            "productNumber": "082873552",
+            "name": "Revels Pouch 101G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "056385610",
+            "name": "Mrs Crimble's Coconut Macaroons 6 Pack",
+            "shelf": 6
+        },
+        {
+            "productNumber": "058551301",
+            "name": "Sure Women Cotton Dry Antiperspirant Deodorant 250Ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "067880992",
+            "name": "WHITE BAGUETTE 400G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "052221650",
+            "name": "Loyd Grossman Tomato And Chilli Pasta Sauce 350G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "051183776",
+            "name": "Extra Peppermint Gum 10 Pieces",
+            "shelf": 2
+        },
+        {
+            "productNumber": "072275676",
+            "name": "Vita Coco 100% Natural Coconut Water 500Ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "076466179",
+            "name": "Finest* Triple Choc Cookie 4pk",
+            "shelf": 4
+        },
+        {
+            "productNumber": "066101419",
+            "name": "Coca Cola Diet Coke 8X330ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "074323571",
+            "name": "Tesco Finest Colombian Supremo Ground Coffee 227G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "051476741",
+            "name": "Dove Original Bar Soap 2X100g",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050487706",
+            "name": "Mcvities Chocolate Hobnob Flapjack 65G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "052503363",
+            "name": "Smint Single 8G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "084104654",
+            "name": "Heinz Cream Of Chicken Soup 400G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050988655",
+            "name": "Nutella Hazelnut Chocolate Spread 400G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "050767485",
+            "name": "Trebor Extra Strong Mints 41.3G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "059460891",
+            "name": "Walkers Baked Cheese And Onion 37.5G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "082352852",
+            "name": "CHOCOLATE TWIST",
+            "shelf": 6
+        },
+        {
+            "productNumber": "083408170",
+            "name": "Tesco Carrot Cake 61G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "084105054",
+            "name": "Heinz Baked Beans In Tomato Sauce 415G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "077054521",
+            "name": "Belvita Breakfast Honey And Nut 50G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "074609562",
+            "name": "Nakd Cocoa Orange Bars 4 Pack 140G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "051549287",
+            "name": "Lil Lets Non Applicator Super Tampons 16 Pack",
+            "shelf": 3
+        },
+        {
+            "productNumber": "054871723",
+            "name": "Tesco Bacon Rashers Snacks 150G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "051665886",
+            "name": "Diet Coke 500Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "071526140",
+            "name": "Walkers Quavers Cheese 6 Pack",
+            "shelf": 6
+        },
+        {
+            "productNumber": "076343388",
+            "name": "WHOLEMEAL BLOOMER 400g",
+            "shelf": 7
+        },
+        {
+            "productNumber": "060906295",
+            "name": "Limes Each",
+            "shelf": 8
+        },
+        {
+            "productNumber": "057047007",
+            "name": "Wholefoods Hazelnuts 175G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "050607520",
+            "name": "Tesco Walnut Halves 100G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050046929",
+            "name": "Hellmann's Real Mayonnaise 400G Jar",
+            "shelf": 3
+        },
+        {
+            "productNumber": "081300985",
+            "name": "New York Bakery Plain Bagel 5 Pack",
+            "shelf": 4
+        },
+        {
+            "productNumber": "051666188",
+            "name": "Tesco Unsmoked Back Bacon 10 Rashers 300G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "057755937",
+            "name": "Tesco Honeydew Melon Each (C)",
+            "shelf": 6
+        },
+        {
+            "productNumber": "061575891",
+            "name": "Galaxy Cookie Crumble Chocolate Bar 114G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "083242261",
+            "name": "Rude Health Almond Butter Porridge Pot 50G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050508770",
+            "name": "Fox's Jam Sandwich Cream Biscuit 150G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "083242278",
+            "name": "Rude Health Hazelnut Butter Porridge Pot 50G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "081722036",
+            "name": "Tesco Beef Jerky Original 25G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "055271648",
+            "name": "Tesco Organic Almonds 200 G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "084901880",
+            "name": "Cornetto Strawberry Ice Cream Cone 120Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "060110314",
+            "name": "Cow & Gate Bby Bal 7Mth Spaghetti Bolognese 200G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "051338329",
+            "name": "Tesco Red Kidney Beans 400G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "060277767",
+            "name": "Hp Top Down Brown Sauce 450G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "071799242",
+            "name": "Wham Chew Bar 25G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "083516479",
+            "name": "Tesco Salted Caramel Tart 80G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "073292947",
+            "name": "Mr Freeze Freeze Pops 20X45ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "073560688",
+            "name": "Proformula Floss Single X 50M",
+            "shelf": 4
+        },
+        {
+            "productNumber": "076796750",
+            "name": "Emmi Caffe Latte Cappuccino Mr Big 370Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "079719101",
+            "name": "Nature's Store Free From Milk Chocolate Rice Cakes 100G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "071294401",
+            "name": "Chupa Chups Xxl Lolly 29G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "058083238",
+            "name": "Chewits Xtreme Sour Apple Stick 31G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "051881157",
+            "name": "Swizzels Giant Love Hearts 39G (C)",
+            "shelf": 1
+        },
+        {
+            "productNumber": "067330267",
+            "name": "Quaker Oat So Simple Original Porridge Pot 50G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "055135897",
+            "name": "Nestle Kit Kat Chunky Duo 70G (C)",
+            "shelf": 3
+        },
+        {
+            "productNumber": "074439250",
+            "name": "Aptamil 1 First Milk 200Ml Ready To Feed Liquid",
+            "shelf": 4
+        },
+        {
+            "productNumber": "053042543",
+            "name": "Kelloggs Rice Krispies Squares 28G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "072628571",
+            "name": "Cadbury Freddo 18G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "064140675",
+            "name": "Cadbury Boost Glucose Duo 78G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "055577569",
+            "name": "NIVEA SUN Kids Moisturising Sun Spray 30 High 200ml",
+            "shelf": 8
+        },
+        {
+            "productNumber": "054310115",
+            "name": "Galaxy Milk Chocolate 42G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "051109440",
+            "name": "Tesco Pecan Nuts 100G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050622386",
+            "name": "Tesco Pure Apple Juice 3X200ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "083562383",
+            "name": "Tesco 4 Iced Finger Buns",
+            "shelf": 4
+        },
+        {
+            "productNumber": "085201854",
+            "name": "Milkybar Wowsomes White 18G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "067880600",
+            "name": "Butter Croissant (C)",
+            "shelf": 6
+        },
+        {
+            "productNumber": "053441324",
+            "name": "Tetley 160 Teabags 500G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "079661409",
+            "name": "Optrex Intensive Eyedrops 10Ml",
+            "shelf": 8
+        },
+        {
+            "productNumber": "077618765",
+            "name": "Whitworths Berry Yogurt Shot 25G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "050889450",
+            "name": "Tesco Walnut Cake",
+            "shelf": 2
+        },
+        {
+            "productNumber": "073292786",
+            "name": "Fuel Energy Drink Chocolate 330Ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "052641515",
+            "name": "Fanta Orange 500Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "052582671",
+            "name": "Mr Kipling Mini Battenberg Cakes 5 Pack",
+            "shelf": 5
+        },
+        {
+            "productNumber": "056447288",
+            "name": "Copella Apple Juice 300Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "050769310",
+            "name": "Maltesers Bag 37G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "053258518",
+            "name": "Supercook Baking Cases 100'S",
+            "shelf": 8
+        },
+        {
+            "productNumber": "051502066",
+            "name": "Maynards Wine Gums 190G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "051849767",
+            "name": "Tesco Curly The Caterpillar Cake Each",
+            "shelf": 2
+        },
+        {
+            "productNumber": "077801415",
+            "name": "Patak's Plain Pappadums 8Pk",
+            "shelf": 3
+        },
+        {
+            "productNumber": "083242791",
+            "name": "Weetabix Additions C/NUT & Raisin 12pk",
+            "shelf": 4
+        },
+        {
+            "productNumber": "058976812",
+            "name": "Mission Deli. Wrap Wheat And White 8 Pack",
+            "shelf": 5
+        },
+        {
+            "productNumber": "072679832",
+            "name": "Tesco Mini Chicken Fillets 400G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "067465545",
+            "name": "Jungle Formula Maximum Aerosol 150 Ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "076670075",
+            "name": "Ufit Protein Shake Drink Strawberry 310Ml",
+            "shelf": 8
+        },
+        {
+            "productNumber": "064760315",
+            "name": "Tesco British Whole Chicken 1.3-1.5Kg (C)",
+            "shelf": 1
+        },
+        {
+            "productNumber": "062462867",
+            "name": "Sure Men Sensitive Roll-On Antiperspirant Deodorant 50Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "065728590",
+            "name": "Tesco Ripe Bananas 5 Pack",
+            "shelf": 3
+        },
+        {
+            "productNumber": "054334542",
+            "name": "Polo Sugar Free Mints Roll 33.4G (C)",
+            "shelf": 4
+        },
+        {
+            "productNumber": "076815032",
+            "name": "Sacla Basil Pesto Gluten Free 190G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "050054136",
+            "name": "Nescafe Original Instant Coffee 200G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "051540607",
+            "name": "Granulated Sugar 1Kg",
+            "shelf": 7
+        },
+        {
+            "productNumber": "056796636",
+            "name": "Tesco Black Peppercorn Grinder 50G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "067551437",
+            "name": "Pringles Salt And Vinegar 200G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "054748283",
+            "name": "Tesco 4 All Butter Pain Au Chocolat",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050903820",
+            "name": "Hartleys Ready To Eat Jelly Strawberry 125G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "076441116",
+            "name": "Tesco Rice Cakes Salt And Vinegar Flavoured 145G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "053516605",
+            "name": "Anadin Extra Caplets 16S",
+            "shelf": 5
+        },
+        {
+            "productNumber": "052434847",
+            "name": "Topps Push Pop Original 15G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "077773729",
+            "name": "Tic Tac Lime And Orange 49G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "072010944",
+            "name": "Propercorn Sweet And Salty 30G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "080012066",
+            "name": "Monster Energy Ultra 500Ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "050185361",
+            "name": "Tesco Scottish Porridge 500G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "052388711",
+            "name": "Snickers Duo 95.4G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "080763490",
+            "name": "Tesco Finest 2 Cod And Parsley Fishcakes 290G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "085212553",
+            "name": "Propercorn Chocolate Popcorn 26G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "076298268",
+            "name": "WHITE BLOOMER 400G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "053268915",
+            "name": "Kettle Chips Sea Salt And Balsamic Vinegar 150G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "057753087",
+            "name": "Grapefruit Each (C)",
+            "shelf": 8
+        },
+        {
+            "productNumber": "059223124",
+            "name": "Wrigleys Juicy Fruit 7 Sticks 18.2G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "050402831",
+            "name": "Tesco Wholefoods Prunes 250G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "066772678",
+            "name": "San Pellegrino Limonata 330 Ml (C)",
+            "shelf": 3
+        },
+        {
+            "productNumber": "060862380",
+            "name": "Sensations Lime/Coriander Poppadums 82.5G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "080567906",
+            "name": "Tesco Free From Digestive Biscuits 160G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "058287738",
+            "name": "Nivea Moisturisng Sun Lotion SPF50+ 200ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "053902119",
+            "name": "Pataks Plain Naan Bread 2 Pack",
+            "shelf": 7
+        },
+        {
+            "productNumber": "051965865",
+            "name": "Amoy Dark Soy Sauce 150Ml Plus 66% Extra",
+            "shelf": 8
+        },
+        {
+            "productNumber": "051305789",
+            "name": "Bonne Maman Raspberry Conserve 370G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "067839426",
+            "name": "Tesco Wholefoods Mixed Nuts 200G (C)",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050020286",
+            "name": "Green Giant Original Sweet Corn 198G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "057596670",
+            "name": "Tropicana Orange Juice Smooth 300Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050066456",
+            "name": "Mcvitie Rich Tea Biscuits 300G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "060906295",
+            "name": "Limes Each",
+            "shelf": 6
+        },
+        {
+            "productNumber": "050553041",
+            "name": "Tesco Marshmallows 200G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "080147154",
+            "name": "Walkers Max Paprika Crisps 50G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "073035389",
+            "name": "Lindt Lindor Chocolate Treat Bar 38G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "083603552",
+            "name": "Nutella B-Ready 22G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "058504554",
+            "name": "Tesco Strawberry Pencils 100G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "061434943",
+            "name": "Walkers Sunbites Sour Cream And Black Pepper 28G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050344298",
+            "name": "Tesco Finest 6 Traditional Pork Sausage 454G (C)",
+            "shelf": 5
+        },
+        {
+            "productNumber": "062048707",
+            "name": "Tampax Blue Box Super Plus 20",
+            "shelf": 6
+        },
+        {
+            "productNumber": "056629323",
+            "name": "Evian Still Mineral Water 750Ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "076252835",
+            "name": "Blueberry Muffins 4 Packs",
+            "shelf": 8
+        },
+        {
+            "productNumber": "055098859",
+            "name": "Blue Dragon Sweet Chilli Dipping Sauce 190Ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "082402039",
+            "name": "Mcvities Thins Milk Chocolate 180G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "080519705",
+            "name": "Always Ultra Night Sanitary Towels 10 Pack",
+            "shelf": 3
+        },
+        {
+            "productNumber": "084461072",
+            "name": "Rowntrees Randoms Pouch Bag 150G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "083515077",
+            "name": "Tesco Free From Mayonnaise 250Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "083345773",
+            "name": "Jordans Crunchy Granola Raisin Almond 750G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "064122645",
+            "name": "Pukka Organic Night Time 20 Tea Bags 20G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "061093619",
+            "name": "T.Perfectly Ripe Pear Each Class 1 (C)",
+            "shelf": 8
+        },
+        {
+            "productNumber": "081440127",
+            "name": "Tesco Gluten Free Tikka Masala Rice Pot 300G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "073229840",
+            "name": "Extra White Gum Bottle 46 Pieces64g",
+            "shelf": 2
+        },
+        {
+            "productNumber": "055426484",
+            "name": "Mugshot Creamy Cheese Pasta 68G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "057047203",
+            "name": "Mcvities Chocolate Hobnobs 262G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "060324643",
+            "name": "Wrigleys Extra Bottle Peppermint 60Pce 80G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "064140698",
+            "name": "Cadbury Double Decker Duo 80G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "060121445",
+            "name": "Tesco 74% Cocoa Ivory Coast Plain Chocolate 100G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "083391400",
+            "name": "Coca Cola Classic 250Ml",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050484456",
+            "name": "Kellogg's Crunchy Nut 500G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "075741287",
+            "name": "Garnier Micellar Cleansing Water 400Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "054896141",
+            "name": "Dolmio Stir In Carbonara Pasta Sauce 150G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "081438966",
+            "name": "Princes Drained Tuna Steak In Spring Water 3 Pack 120G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050683710",
+            "name": "Tesco Basmati Rice 500G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "064212769",
+            "name": "Gillette Blue 2 Slalom Disposable Razors 8 Pack",
+            "shelf": 6
+        },
+        {
+            "productNumber": "071206882",
+            "name": "Cadbury Dairy Milk Buttons Bag 40G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "082214636",
+            "name": "Tesco Viennese Half Coated Swirl 135G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "060392526",
+            "name": "Tesco Multiseed Farmhouse Batch 800G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "051177882",
+            "name": "Cadbury Double Decker Bar 54.5G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "064762096",
+            "name": "Cadbury Caramel Nibbles 120G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "067381766",
+            "name": "Sensodyne Repair & Protect Sensitive Toothpaste 75Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "067903926",
+            "name": "Tesco Clementine Or Sweet Easy Peeler Loose (C )",
+            "shelf": 5
+        },
+        {
+            "productNumber": "079490438",
+            "name": "Quaker Oat Granola Raisin 550G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "084104798",
+            "name": "Heinz Baked Beans No Added Sugar 415G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "055983543",
+            "name": "Twinings Camomile And Honey 20'S 30G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "051778568",
+            "name": "Twix Chocolate Bar 75G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "055271358",
+            "name": "Tesco Organic Mixed Nuts 200G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050365655",
+            "name": "Twinings English Breakfast 50 Teabags 125G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "050707177",
+            "name": "Branston Small Chunk Pickle 360G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "080761250",
+            "name": "Magnum White Ice Cream 110Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "050390935",
+            "name": "Horlicks Instant Light 500G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "070742034",
+            "name": "Extra Strawberry Gum 10 Pieces",
+            "shelf": 7
+        },
+        {
+            "productNumber": "081439798",
+            "name": "Tesco Gluten Free Tomato And Basil Pasta Pot 300G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "053718885",
+            "name": "John West Light Lunch Mediterranean 220G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "084461846",
+            "name": "L'oreal Elvive Colour Protect Coloured Hair Conditioner 500Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "066024948",
+            "name": "Maoam Giant Stripes 15G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "085350924",
+            "name": "Jacobs Mini Cheddars Original 6X25g",
+            "shelf": 4
+        },
+        {
+            "productNumber": "081421951",
+            "name": "Maltesers Cookies 4 Pack",
+            "shelf": 5
+        },
+        {
+            "productNumber": "082989415",
+            "name": "Caramel Shortcake Slice",
+            "shelf": 6
+        },
+        {
+            "productNumber": "053204180",
+            "name": "Saxa Black Pepper 25G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050687527",
+            "name": "Warburtons Toastie Sliced White Bread 800G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "082476772",
+            "name": "Tesco Double Chocolate Cookie 5 Pack",
+            "shelf": 1
+        },
+        {
+            "productNumber": "050921268",
+            "name": "Tesco Sieved Tomatoes Passata 500G Ce",
+            "shelf": 2
+        },
+        {
+            "productNumber": "076017619",
+            "name": "Weetabix On The Go Chocolate Drink 250Ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "051513646",
+            "name": "Tesco Red Onions (C)",
+            "shelf": 4
+        },
+        {
+            "productNumber": "067551529",
+            "name": "Pringles Sour Cream And Onion 200G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "053502731",
+            "name": "Mars Starburst Fruity Chews 215G Bag",
+            "shelf": 6
+        },
+        {
+            "productNumber": "078621954",
+            "name": "Mr Kipling Lemon Slices 8 Pack",
+            "shelf": 7
+        },
+        {
+            "productNumber": "073968926",
+            "name": "Tesco Finest Baby Potatoes 750G (C)",
+            "shelf": 8
+        },
+        {
+            "productNumber": "077675811",
+            "name": "Galaxy Cookies 4 Pack",
+            "shelf": 1
+        },
+        {
+            "productNumber": "074034285",
+            "name": "Pampers Baby Dry Size 3 Carry Pack - 30 nappies",
+            "shelf": 2
+        },
+        {
+            "productNumber": "076109782",
+            "name": "Tesco 5 Chocolate Doughnuts",
+            "shelf": 3
+        },
+        {
+            "productNumber": "073504566",
+            "name": "Tesco Finest 12 Aberdeen Angus Meatballs 360G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "067655672",
+            "name": "Tesco Mini Milk Chocolate Cookie Bites 20 Pack",
+            "shelf": 5
+        },
+        {
+            "productNumber": "082989409",
+            "name": "Chocolate Brownie Slice",
+            "shelf": 6
+        },
+        {
+            "productNumber": "059730981",
+            "name": "Tesco Snack Pack Brazil Nuts 50G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "058974098",
+            "name": "Cadbury Crunchie Bars 4 Pack 128G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "083165588",
+            "name": "L'or. Ristretto Caps 10Pc 52G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "057753087",
+            "name": "Grapefruit Each (C)",
+            "shelf": 2
+        },
+        {
+            "productNumber": "053030505",
+            "name": "Airwaves Menthol And Eucalyptus Gum 10 Pieces",
+            "shelf": 3
+        },
+        {
+            "productNumber": "058504560",
+            "name": "Tesco Strawberry Flavour Lances 75G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "082873569",
+            "name": "Snickers Bites 119G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "063703766",
+            "name": "Tesco 2X Chicken Breast Fillets 300G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "058872065",
+            "name": "Dried Cherry 100G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "053408814",
+            "name": "Twinings Strawberry And Raspberry 40G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050436589",
+            "name": "Canderel 300Pk",
+            "shelf": 1
+        },
+        {
+            "productNumber": "059260649",
+            "name": "Vo5 Extreme Style Matte Clay 75Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "082934106",
+            "name": "Colmans Seafood Sauce 155G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "083603330",
+            "name": "Belvita Milk And Cereal Biscuits 225G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "052612700",
+            "name": "Tesco Cashew Nuts 250G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "073706304",
+            "name": "Extra White Bubblemint Gum 10 Pieces",
+            "shelf": 6
+        },
+        {
+            "productNumber": "072033824",
+            "name": "Tesco Soft Pitted Dates 250G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "081720689",
+            "name": "Grenade Carb Killa White Chocolate Cookie Protein Bar60g",
+            "shelf": 8
+        },
+        {
+            "productNumber": "076955545",
+            "name": "Eat Me Dates Deglet Nourishing Pitted 200G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "059558808",
+            "name": "Tesco Sun Dried Tomato Antipasti 285G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "082782792",
+            "name": "KELLOGGS RICE KRISPIES 510G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "050083556",
+            "name": "Cadbury Crunchie Bar 40G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "067881098",
+            "name": "Strawberry Iced Ring Doughnut",
+            "shelf": 5
+        },
+        {
+            "productNumber": "084885805",
+            "name": "Naked Blue Machine Blueberry Smoothie 360Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "077142273",
+            "name": "Nutella And Go 48G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "058248281",
+            "name": "Kingsmill Tasty Wholemeal Rolls 6 Pack",
+            "shelf": 8
+        },
+        {
+            "productNumber": "051578315",
+            "name": "Veet Sensitive Hair Removal Cream 100Ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "084460862",
+            "name": "Rowntrees Fruit Pastilles Pouch 150G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "057949645",
+            "name": "Red Bull Sugar Free Can 250Ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "070708226",
+            "name": "Tesco Loves Baby Ultra Soft Fragrance Free Wipes x64",
+            "shelf": 4
+        },
+        {
+            "productNumber": "067439957",
+            "name": "Kenco Millicano Americano Instant Coffee 100G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "074875654",
+            "name": "Tesco Brown Onion Each (C)",
+            "shelf": 6
+        },
+        {
+            "productNumber": "051320004",
+            "name": "Schweppes Lemonade 2Litre Bottle",
+            "shelf": 7
+        },
+        {
+            "productNumber": "084743064",
+            "name": "Coca Cola Zero Peach 500Ml",
+            "shelf": 8
+        },
+        {
+            "productNumber": "078621511",
+            "name": "Mcvities Digestive Caramel Slice 51.5G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "067851896",
+            "name": "Tesco Cashew Nuts 200G (C)",
+            "shelf": 2
+        },
+        {
+            "productNumber": "080809005",
+            "name": "Mcvities Digestive Nibbles Caramel 120G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "064881696",
+            "name": "T.Fin*2 Corn Fed Free Range Chicken Fillets",
+            "shelf": 4
+        },
+        {
+            "productNumber": "052123461",
+            "name": "Oasis Summer Fruits 500Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "082984023",
+            "name": "Lindt Lindor Orange Treat Bar 38G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "058342733",
+            "name": "Tesco Free From Fusilli Pasta 500G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "083090249",
+            "name": "Maoam Pinballs 170G Bag .",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050319095",
+            "name": "Radox Muscle Soak Bath Soak 500Ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "072906743",
+            "name": "Quaker Oat So Simple Original Porridge 12X27g (C)",
+            "shelf": 2
+        },
+        {
+            "productNumber": "051288923",
+            "name": "Bonjela 15G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "084979418",
+            "name": "Starburst Gum Fruity Mix Mini Pellets",
+            "shelf": 4
+        },
+        {
+            "productNumber": "081243879",
+            "name": "Walkers Sensations Thai Chilli 6X25g",
+            "shelf": 5
+        },
+        {
+            "productNumber": "051954901",
+            "name": "Kingsmill Soft White Medium Bread 800G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "078642872",
+            "name": "Tesco Minted Lamb Kebabs 400G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "062984497",
+            "name": "Pink Lady Apples Each (C) Class 1",
+            "shelf": 8
+        },
+        {
+            "productNumber": "063809048",
+            "name": "Walkers Monster Munch Mega Roast Beef Snack 40G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "059579866",
+            "name": "Fox's Extremely Milk Chocolate Chunkie Cookies 175G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050702568",
+            "name": "Jacobs Mini Cheddaroriginal Snack 50G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "050185879",
+            "name": "Tesco Orange Juice Smooth 1L",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050550620",
+            "name": "Walkers Cheese And Onion Crisps 32.5G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "076780935",
+            "name": "Tesco Free Range 6 Medium Express Pack",
+            "shelf": 6
+        },
+        {
+            "productNumber": "080053276",
+            "name": "Tesco Courgettes 500G (C)",
+            "shelf": 7
+        },
+        {
+            "productNumber": "065606740",
+            "name": "Nescafe Dolce Gusto Caffe Americano 160G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "083646866",
+            "name": "Ambrosia Devon Custard 150G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "050069862",
+            "name": "Jacobs Cream Crackers 300G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "075515164",
+            "name": "White Chocolate Cookies 5 Pack",
+            "shelf": 3
+        },
+        {
+            "productNumber": "084567134",
+            "name": "Tesco Mixed Berries 25G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "073384113",
+            "name": "Tesco Peanut Cookies 200G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "079800592",
+            "name": "Tassimo Costa Latte Coffee Pods 8 Servings",
+            "shelf": 6
+        },
+        {
+            "productNumber": "055766213",
+            "name": "Weetabix Minis Chocolate 600G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "067544573",
+            "name": "Tesco Chinese Chicken Thighs 700G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "062918387",
+            "name": "Kelloggs Fruit And Fibre 500G (C)",
+            "shelf": 1
+        },
+        {
+            "productNumber": "084981144",
+            "name": "Haribo Starmix 190G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "082782728",
+            "name": "NESTLE HONEY CHEERIOS CEREAL 375G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "059260632",
+            "name": "Vo5 Extreme Style Rework Putty 150Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "063174509",
+            "name": "Extra Peppermint Gum 3 Pack",
+            "shelf": 5
+        },
+        {
+            "productNumber": "050043558",
+            "name": "Marmite Yeast Extract 250G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "051825133",
+            "name": "Pepsi Max Slam Bottle",
+            "shelf": 7
+        },
+        {
+            "productNumber": "078899101",
+            "name": "Pampers Baby Dry Size 4 Carry Pack 25 Nappies",
+            "shelf": 8
+        },
+        {
+            "productNumber": "056433485",
+            "name": "John West Pink Salmon 213G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "057489463",
+            "name": "Ambre Solaire After Sun Skin Soother 400ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050709745",
+            "name": "Mccoys Flame Grilled Steak Crisps 47.5G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "084489635",
+            "name": "Gillette Fusion5 Ultra Moisturising Shaving Gel 200Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "084460634",
+            "name": "Tropicana Juice Essentials Raspberry 330Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "051789486",
+            "name": "Twinings Lemon And Ginger 20 Teabags 30G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "070490153",
+            "name": "Batchelors Cup A Soup Chicken 81G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "052009038",
+            "name": "Butterkist Toffee Popcorn 170G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "051298335",
+            "name": "Werthers Original 150G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "085213039",
+            "name": "Kit Kat 4 Finger Ruby Chocolate Bar 41.5G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "061354922",
+            "name": "Kellogg's All Bran Bran Flakes 500G (C)",
+            "shelf": 3
+        },
+        {
+            "productNumber": "051305766",
+            "name": "Bonne Maman Strawberry Conserve 370G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050748531",
+            "name": "Cadbury Twirl Bar 43G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "082873581",
+            "name": "Maltesers Large Pouch 166G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "050064130",
+            "name": "Mr Kipling Cherry Bakewells 6 Pack",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050694000",
+            "name": "Tesco Whole Wheat Fusilli Pasta 500G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "054295754",
+            "name": "Warburtons Crumpets 6 Pack",
+            "shelf": 1
+        },
+        {
+            "productNumber": "056857398",
+            "name": "Eat Natural Yogurt Almond And Apricot Bars 3X50g",
+            "shelf": 2
+        },
+        {
+            "productNumber": "064122835",
+            "name": "Pukka Organic 3 Mint Tea 20'S 32G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "075998904",
+            "name": "John West Steam Pot Tuna Infusions Basil 150G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "051573136",
+            "name": "Tesco Tuna Chunks Pole And Line In Brine 185G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "059358022",
+            "name": "Tesco Finest 12 Pork Outdoor Bred Chipolata 375G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "083391348",
+            "name": "Diet Coke 2L",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050493347",
+            "name": "Del Monte Peach Slices In Juice 415G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050436687",
+            "name": "Tesco Tomato Puree Tube 200G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "051775433",
+            "name": "Rowntrees Fruit Gums 48G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050262460",
+            "name": "Tesco Olive Oil 500Ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "050044534",
+            "name": "Colmans Cheddar Cheese Sauce Mix 40G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "052862271",
+            "name": "Tesco Ready To Eat Apricots 250G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "083694422",
+            "name": "Mccoy's Classic 6X27g",
+            "shelf": 6
+        },
+        {
+            "productNumber": "082764572",
+            "name": "Batchelors Super Noodle Pots Chicken 75G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "072569375",
+            "name": "Cadbury Dairy Milk Oreo Chocolate Bar 120G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "051039931",
+            "name": "Kingsmill Muffins 4 Pack",
+            "shelf": 1
+        },
+        {
+            "productNumber": "051177916",
+            "name": "Cadbury Dairy Milk Caramel 45 G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "073780698",
+            "name": "Tesco Belly Slices 550G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "058875557",
+            "name": "Buxton Still Water Sports 1L(C)",
+            "shelf": 4
+        },
+        {
+            "productNumber": "075907645",
+            "name": "Kabuto Noodles Chicken Ramen 85G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "051117332",
+            "name": "Radox For Men 2 In 1 Feel Awake Shower Gel 250Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "078394370",
+            "name": "Eat Natural Protein Bar 45G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "055033142",
+            "name": "Extra Peppermint Mints 16 Pieces",
+            "shelf": 8
+        },
+        {
+            "productNumber": "064159037",
+            "name": "Milkybar White Chocolate Bar 100G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "062443118",
+            "name": "Walkers Ready Salted 6X25g",
+            "shelf": 2
+        },
+        {
+            "productNumber": "055231028",
+            "name": "Lucozade Original 500Ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "080963452",
+            "name": "Nandos Squeezy Perinaise 265G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "075947009",
+            "name": "Nicorette Icy White Gum 2Mg 25S",
+            "shelf": 5
+        },
+        {
+            "productNumber": "052279881",
+            "name": "Tesco Butternut Squash",
+            "shelf": 6
+        },
+        {
+            "productNumber": "071331888",
+            "name": "Cadbury Bitsa Wispa Bag 110G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "082946639",
+            "name": "Heinz Tom Ketchup Less Salt And Sugar 665G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "082989438",
+            "name": "Tiffin Slice",
+            "shelf": 1
+        },
+        {
+            "productNumber": "054058984",
+            "name": "Homepride Pasta Bake Tomato And Herb Pasta Sauce 500G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "061597997",
+            "name": "Tesco Goji Berries 100G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "052641953",
+            "name": "Fanta Orange 2 Litre Bottle",
+            "shelf": 4
+        },
+        {
+            "productNumber": "085184965",
+            "name": "Tesco Gluten Free Brownie 45G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "083062358",
+            "name": "Tregroes Waffles Snack Pack Toffee 65G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "060663195",
+            "name": "Kit Kat Chunky Milk Chocolate 4 Pack 160G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "075589703",
+            "name": "Finest Triple Chocolate Shortbread 4 Pack",
+            "shelf": 8
+        },
+        {
+            "productNumber": "059288528",
+            "name": "Tesco Finest Victoria Sponge",
+            "shelf": 1
+        },
+        {
+            "productNumber": "054326206",
+            "name": "Tesco Finest Carrot Cake",
+            "shelf": 2
+        },
+        {
+            "productNumber": "055953337",
+            "name": "Kelloggs Special K Red Berry 21.5G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "056808958",
+            "name": "Cadbury Dairy Milk Giant Buttons 119G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "051984047",
+            "name": "Extra Spearmint Gum 10 Pieces",
+            "shelf": 5
+        },
+        {
+            "productNumber": "062462533",
+            "name": "Dove Original Roll-On Antiperspirant Deodorant 50Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "050412329",
+            "name": "Tesco Kiwi Fruit Each (C)",
+            "shelf": 7
+        },
+        {
+            "productNumber": "057434494",
+            "name": "Topps Juicy Drop Pop 26G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "053796981",
+            "name": "Tesco Lasagne Pasta 500G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "082782812",
+            "name": "KELLOGGS COCO POPS 550G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "052283869",
+            "name": "Lemsip Cold And Flu 10'S Max Strength",
+            "shelf": 3
+        },
+        {
+            "productNumber": "052562551",
+            "name": "Tesco Ingredient Lemon Juice 250Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "078589981",
+            "name": "Mr Kipling Angel Slice Twin Pack",
+            "shelf": 5
+        },
+        {
+            "productNumber": "050185885",
+            "name": "Tesco Pure Apple Juice 1L",
+            "shelf": 6
+        },
+        {
+            "productNumber": "063372730",
+            "name": "Thorntons Mini Brownie Bites 9Pk",
+            "shelf": 7
+        },
+        {
+            "productNumber": "079314355",
+            "name": "Polo Sugar Free Tube Multipack 4 X 33.4G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050077691",
+            "name": "Coca Cola 1.5Ltr",
+            "shelf": 1
+        },
+        {
+            "productNumber": "051673346",
+            "name": "Tesco Dark Cooking Chocolate 150G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "052477433",
+            "name": "Pg Tips 80S Pyramid Teabags 232G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "050622363",
+            "name": "Tesco Smooth Orange Juice 3X200ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "054718941",
+            "name": "Robinsons Fruit Shoots Blackcurrant And Apple No Added Sugar 4X200ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "050284877",
+            "name": "San Pellegrino Sparkling Water 500Ml (New)",
+            "shelf": 6
+        },
+        {
+            "productNumber": "083730752",
+            "name": "Tesco Blueberry Muffin",
+            "shelf": 7
+        },
+        {
+            "productNumber": "062443055",
+            "name": "Walkers Variety 6X25g",
+            "shelf": 8
+        },
+        {
+            "productNumber": "071766206",
+            "name": "Airwaves Blackcurrant Gum 10 Pieces",
+            "shelf": 1
+        },
+        {
+            "productNumber": "058895078",
+            "name": "Chupa Chupa Melody Pops 15G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "067880548",
+            "name": "Chocolate Croissant (C)",
+            "shelf": 3
+        },
+        {
+            "productNumber": "073837114",
+            "name": "Cadbury Dairy Milk Marvellous Creations Jelly Candy Bar 47G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "051321677",
+            "name": "Kettle Chips Lightly Salted 150G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "085275230",
+            "name": "Butterkist Popcorn Toffee 60G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "051512463",
+            "name": "Mrs Elswood Sweet And Sour Cucumbers 670G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "081931284",
+            "name": "Tesco Charlotte Potatoes 1Kg",
+            "shelf": 8
+        },
+        {
+            "productNumber": "063903155",
+            "name": "Optrex Itchy Eyes 10Ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "075579750",
+            "name": "Pink Lady Fridge 4 Pack (C)",
+            "shelf": 2
+        },
+        {
+            "productNumber": "076557849",
+            "name": "SOURDOUGH BLOOMER 380g",
+            "shelf": 3
+        },
+        {
+            "productNumber": "051934983",
+            "name": "Kettle Lightly Salted Crisps 40G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "083772543",
+            "name": "Frijj Strawberry 400Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "054948622",
+            "name": "Red Bull Energy Drink 4 X 250Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "084104631",
+            "name": "Heinz Cream Of Tomato Soup 400G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "058865206",
+            "name": "Tesco Finest Maple Syrup No 1 Light 330G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "085557801",
+            "name": "Snack A Jacks Salt And Vinegar Rice Cakes 23G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "054287044",
+            "name": "Kelloggs Coco Pops Cerealbar 20G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "055826834",
+            "name": "Soreen Fruity Malt Loaf 260G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "051950788",
+            "name": "Blue Dragon Sweet Chilli And Garlic Stir Fry Sauce 120G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "056169947",
+            "name": "Hartleys No Added Sugar Ready To Eat Jelly Strawberry 115G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "084898456",
+            "name": "Tesco Mandarin And Ginger Shot 100Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "080844164",
+            "name": "Galaxy Counters Chocolate Pouch 112G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "082041287",
+            "name": "Squares Salt And Vinegar 40G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "074525165",
+            "name": "Bear Pure Fruit Yoyos Strawberry 20G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "067552730",
+            "name": "Pringles Original 200G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "052647175",
+            "name": "Coca Cola 6X330ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "084620676",
+            "name": "Dentyl Bb Mints Peppermint 12'S",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050064199",
+            "name": "Mr Kipling French Fancies 8 Pack",
+            "shelf": 5
+        },
+        {
+            "productNumber": "051749344",
+            "name": "Lucozade Sport Orange Still 500Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "079801003",
+            "name": "Tesco 6 Wholemeal Pitta Bread",
+            "shelf": 7
+        },
+        {
+            "productNumber": "072010909",
+            "name": "Propercorn Lightly Sea Salted 20G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "060515918",
+            "name": "Nurofen For Children Strawberry 100Ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "085487584",
+            "name": "Aptamil 1 First Infant Milk From Birth 800G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "062412357",
+            "name": "Nairns Fine Oatcakes 250G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "082934112",
+            "name": "Colmans Mint Sauce 165G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050312102",
+            "name": "Twinings Earl Grey 50 Teabags 125G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "084903428",
+            "name": "Galaxy Milk 110G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "051771783",
+            "name": "Dr Pepper 2 Litre Bottle",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050084336",
+            "name": "Tesco Mango Each (C)",
+            "shelf": 8
+        },
+        {
+            "productNumber": "052542961",
+            "name": "Dolmio Stir In Sun Dried Tomato Pasta Sauce 150G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "067786021",
+            "name": "Genius Gluten Free Triple Seeded Farmhouse Loaf 535G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "083602469",
+            "name": "Nutella B-Ready 6 X 22G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "076170851",
+            "name": "Cadbury Dairy Milk Ice Cream 100Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "052860083",
+            "name": "John West No Drain Tuna Steak In Oil 120G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "067330250",
+            "name": "Quaker Oat So Simple Golden Syrup Porridge 57G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "057446727",
+            "name": "Sensations Sweet Chilli Crisps 40G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050656910",
+            "name": "Lucozade Energy Orange 1 Litre Bottle",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050550614",
+            "name": "Walkers Salt And Vinegar Crisps 32.5G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "051655345",
+            "name": "Bottlegreen Elderflower Cordial 50Cl",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050050797",
+            "name": "Colman's Original English Mustard 170G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "050987817",
+            "name": "Kingsmill Soft White Rolls 6 Pack",
+            "shelf": 4
+        },
+        {
+            "productNumber": "061455434",
+            "name": "Heinz Baked Beans Snap Pots 4X200g",
+            "shelf": 5
+        },
+        {
+            "productNumber": "051109250",
+            "name": "Tesco Pumpkin Seeds 150G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "059460931",
+            "name": "Walkers Baked Ready Salted 37.5G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "064098287",
+            "name": "Tesco 2 Boneless Salmon Fillets 270G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "064191032",
+            "name": "Mentos Fruit Roll 38G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "056385472",
+            "name": "Mrs Crimble's Chocolate Macaroons 6 Pack",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050360136",
+            "name": "Colman's Chilli Con Carne Recipe Mix 50G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "052773071",
+            "name": "Dr Pepper Regular 6 X 330Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050915691",
+            "name": "Mcvities Penguin Milk Chocolate Biscuit 8 Pack 196.8G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "057821387",
+            "name": "Bounty 4 Pack 228G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "050435818",
+            "name": "Appletiser Sparkling Apple Juice 750 Ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050711148",
+            "name": "Kellogg's Frosties 500G (C)",
+            "shelf": 8
+        },
+        {
+            "productNumber": "053601775",
+            "name": "Lynx (Axe) Africa Shower Gel 250ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "054653095",
+            "name": "Kettle Sea Salt And Balsamic Vinegarcrisps40g",
+            "shelf": 2
+        },
+        {
+            "productNumber": "085185630",
+            "name": "SNICKERS 4 PACK 166.8G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "083405942",
+            "name": "Go Ahead Crispy Apple And Sultana Slices 6X43.6G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050750873",
+            "name": "Tesco Butter Brioche Rolls 8Pk",
+            "shelf": 5
+        },
+        {
+            "productNumber": "084810198",
+            "name": "Tesco Coconut 20g",
+            "shelf": 6
+        },
+        {
+            "productNumber": "056513385",
+            "name": "Fanta Orange Zero 500Ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050925892",
+            "name": "Bounty Milk Chocolate Bar 57G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "084981213",
+            "name": "Haribo Supermix 190G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "084105472",
+            "name": "Mccoy's Mexican Chilli 47.5G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "062546976",
+            "name": "Ryvita Multiseed Thins 125G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "051442919",
+            "name": "Milkybar White Chocolate Buttons Bag",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050457558",
+            "name": "Butchers Choice 8 Pork Sausage 454G (C)",
+            "shelf": 5
+        },
+        {
+            "productNumber": "057753070",
+            "name": "Oranges Each (C)",
+            "shelf": 6
+        },
+        {
+            "productNumber": "067314195",
+            "name": "Extra White Peppermint Gum 10 Pieces",
+            "shelf": 7
+        },
+        {
+            "productNumber": "081405922",
+            "name": "Kipling Cherry Bakewell Twin Cdu 2",
+            "shelf": 8
+        },
+        {
+            "productNumber": "076298245",
+            "name": "TIGER BLOOMER 400G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "084962357",
+            "name": "Tesco Salt And Pepper Nut Mix 30G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "081767412",
+            "name": "Tesco Organic Gala Apples 630G (C)",
+            "shelf": 3
+        },
+        {
+            "productNumber": "053625332",
+            "name": "Cow & Gate First Infant Milk From Newborn 200Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "054095812",
+            "name": "TWISTER Ice Cream LOLLY 80ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "054929927",
+            "name": "Tesco Unsalted Mixed Nuts And Raisins 500G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "083446544",
+            "name": "Dolmio Sauce Tomato And Basil No Added Sugar 350G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "082781159",
+            "name": "Oral-B 3D White Arctic Fresh T/Paste75ml",
+            "shelf": 8
+        },
+        {
+            "productNumber": "057605428",
+            "name": "Nestle Cheerios 375G (C)",
+            "shelf": 1
+        },
+        {
+            "productNumber": "052507946",
+            "name": "7 Up Free 500Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "083998875",
+            "name": "J20 Orange And Passion Fruit 6 X 275Ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "082487329",
+            "name": "Magnum Double Raspberry Ice Cream 88Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "054161930",
+            "name": "Twinings Pure Green Teabags 20'S 50G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "059859777",
+            "name": "Fruittella Strawberry Stick 41G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "050083562",
+            "name": "Cadbury Fair Trade Dairy Milk 45G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "076252858",
+            "name": "Belgian Chocolate Muffins 4 Pack",
+            "shelf": 8
+        },
+        {
+            "productNumber": "051579153",
+            "name": "Pepsi Max Cola Bottle",
+            "shelf": 1
+        },
+        {
+            "productNumber": "082041264",
+            "name": "Quavers Cheese Grab Bag 34G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "083380880",
+            "name": "Nestle Shreddies Original Cereal 415G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "084365632",
+            "name": "Tesco Sweetcure Smoked Mackerel Strips 200G (C)",
+            "shelf": 4
+        },
+        {
+            "productNumber": "051536481",
+            "name": "Tesco Loves Baby Sterilising Tablet 56 Pack",
+            "shelf": 5
+        },
+        {
+            "productNumber": "079875312",
+            "name": "Tesco Milk Chocolate Raisins 180G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "084511638",
+            "name": "Nestle Extreme Raspberry With Double Cream 120Ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "062462994",
+            "name": "Sure Men Active Antiperspirant Deodorant 250Ml",
+            "shelf": 8
+        },
+        {
+            "productNumber": "079102047",
+            "name": "Heinz Salad Cream 425G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "076165627",
+            "name": "Nakd Choco Crunch 30",
+            "shelf": 2
+        },
+        {
+            "productNumber": "073855962",
+            "name": "Maltesers Teasers Bar 35G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "065669060",
+            "name": "Tesco Almonds Snack Pack 60G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "081892156",
+            "name": "Walkers Snack A Jack Salt And Vinegar Corn Snack 26G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "084419302",
+            "name": "Wrigleys Extra Peppermint Mints Bottle 70 Pieces",
+            "shelf": 6
+        },
+        {
+            "productNumber": "083679775",
+            "name": "Maltesers Standard Box 100G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "063807511",
+            "name": "Walkers Monster Munch Mega Pickled Onion Snack40g",
+            "shelf": 8
+        },
+        {
+            "productNumber": "081892133",
+            "name": "Walkers Sunbites Crisp Snacks Sweet Chilli 28G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "050606849",
+            "name": "Warburtons Wholemeal Medium Bread 400G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "051109668",
+            "name": "T.Wholefoods Sunflower Seeds 150G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "074761126",
+            "name": "For Goodness Shakes Recovery Milk Chocolate 475Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "052064115",
+            "name": "Robinsons Fruit And Barley Summer Fruits 1L",
+            "shelf": 5
+        },
+        {
+            "productNumber": "059391868",
+            "name": "Doritos Tangy Cheese Grab Bag 55G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "055083871",
+            "name": "Sharwoods Ready To Eat Prawn Crackers 60G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "085013028",
+            "name": "Ambrosia Devon Custard Pot 400G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "051366595",
+            "name": "Jordans Country Crisp And Strawberry 500G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "053992414",
+            "name": "Frijj Chocolate Fudge Brownie Shake 400Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "073398667",
+            "name": "Tesco Salt And Pepper Cracker 185G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "056540450",
+            "name": "Dolmio Tomato And Basil Pouch Pasta Sauce 170G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "062684351",
+            "name": "Mars Xtra Ice Cream 74Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "073445693",
+            "name": "Nestle Frosted Shreddies Cereal 500G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "051260028",
+            "name": "Snickers Single 48G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "054508366",
+            "name": "Tesco All In One Contact Lens Solution 250Ml",
+            "shelf": 8
+        },
+        {
+            "productNumber": "067730106",
+            "name": "Starbucks Mocha Chocolate Frappuccino 250Ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "067838796",
+            "name": "Tesco Brazil Nuts 200G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "053633823",
+            "name": "Lemsip Max Cold And Flu Capsules X 16",
+            "shelf": 3
+        },
+        {
+            "productNumber": "051506839",
+            "name": "Sudafed Block Nose Spray 15Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "076297344",
+            "name": "Tesco Tomatoes On The Vine 380G (C)",
+            "shelf": 5
+        },
+        {
+            "productNumber": "071340214",
+            "name": "Heinz Classic Barbecue Sauce 480G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "075933613",
+            "name": "Tesco Chicken Mini Roast With Gravy 438G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "074034515",
+            "name": "Pampers Baby Dry Size 5 Carry Pack - 23 nappies",
+            "shelf": 8
+        },
+        {
+            "productNumber": "057569271",
+            "name": "Beconase Allergy 100Dose",
+            "shelf": 1
+        },
+        {
+            "productNumber": "058114140",
+            "name": "Doritos Mild Salsa Dip 300G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "080519636",
+            "name": "Always Ultlong Size 2/Twls With Wings 12",
+            "shelf": 3
+        },
+        {
+            "productNumber": "050020804",
+            "name": "Heinz Baked Beans And Pork Sausages 415G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "083391423",
+            "name": "Walkers Baked Cheddar Red Pepper Snacks 35G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "083363895",
+            "name": "Maynards Bassetts Tropical Jelly Babies 165G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "054255629",
+            "name": "Lucozade Sport Orange 4X500ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "055034089",
+            "name": "Dolmio Creamy White Lasagne Sauce 470G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "077091021",
+            "name": "Tesco Conference Pears Pack 610G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "067880295",
+            "name": "CRUSTY WHITE ROLL",
+            "shelf": 2
+        },
+        {
+            "productNumber": "084960780",
+            "name": "Tesco Smoky Chorizo Crunch 30g",
+            "shelf": 3
+        },
+        {
+            "productNumber": "059797740",
+            "name": "Bonjela Teething Gel 15G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "080746142",
+            "name": "Innocent Bubbles Lemon Lime And Apple 330Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "082910906",
+            "name": "Tesco Garlic Mayonnaise 250Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "052122151",
+            "name": "Twinings Invigorating /Invigorate Peppermint 20 Teabags 40G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "058048264",
+            "name": "Uncle Bens Special Golden Vegetable Rice 250G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "055112515",
+            "name": "Blue Dragon Oyster And Sp.Oni Spring Onion Sauce 120G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "057111980",
+            "name": "Cadbury Boost Glucose 48.5G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "060854316",
+            "name": "Doritos Chilli Heatwave Tortilla Chips 180G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "074112135",
+            "name": "Tesco 9 Mini Flapjack Bites",
+            "shelf": 4
+        },
+        {
+            "productNumber": "056426822",
+            "name": "Wilkinson Sword Xtreme 3 Beauty Disposable Razor 4'S",
+            "shelf": 5
+        },
+        {
+            "productNumber": "075120924",
+            "name": "Tesco Cooked And Peeled King Prawns 150G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "082873615",
+            "name": "Maltesers Pouch 93G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "073267477",
+            "name": "Tesco Free From Sliced White Bread 550G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "063719581",
+            "name": "Crespo Pitted Green Olives 354G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "070569142",
+            "name": "Dole Pineapple In Juice 113G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050203796",
+            "name": "Nescafe Gold Blend Coffee 200G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "056875347",
+            "name": "Tesco Finest 4 All Butter And Sultana Scones",
+            "shelf": 4
+        },
+        {
+            "productNumber": "082782772",
+            "name": "SPECIAL K RED BERRIES 360G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "083603232",
+            "name": "Cadbury Crunchy Melts Chocolate Centre 156G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "081439654",
+            "name": "Tesco Free From Original Porridge Pot 55G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "056919130",
+            "name": "Tesco Gala Apples Each Class 1 (C)",
+            "shelf": 8
+        },
+        {
+            "productNumber": "054871850",
+            "name": "Tesco Onion Rings Snacks 150G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "053836693",
+            "name": "Amoy Medium Noodles 2X150g",
+            "shelf": 2
+        },
+        {
+            "productNumber": "074078780",
+            "name": "Tesco Milk Chocolate Chips 100G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "084810123",
+            "name": "Tesco Pineapple 40G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "073561186",
+            "name": "Tesco Ginger 250G (C)",
+            "shelf": 5
+        },
+        {
+            "productNumber": "075790694",
+            "name": "Tesco Sunflower Oil 500Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "065667730",
+            "name": "Tesco Dried Fruit Mix 150 G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "075079691",
+            "name": "Tesco Baking Sweet Potato 725G (C)",
+            "shelf": 8
+        },
+        {
+            "productNumber": "081235117",
+            "name": "Goodness Mineral Water 330Ml 9 Pack",
+            "shelf": 1
+        },
+        {
+            "productNumber": "051584987",
+            "name": "Schwartz Creamy Pepper Sauce 25G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "072317023",
+            "name": "Nature's Finest Pineapple In Juice 400G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "078383072",
+            "name": "Capri Sun No Added Sugar Orange 5X200ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050925984",
+            "name": "Rowntrees Pastilles Single 52.5G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "051791269",
+            "name": "Red Bull Energy Drink 250Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "080830819",
+            "name": "Solero Exotic Ice Cream 90Ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "074023217",
+            "name": "Tesco 8 Cornflake Clusters",
+            "shelf": 8
+        },
+        {
+            "productNumber": "076236037",
+            "name": "Jam Doughnuts 5 Pack",
+            "shelf": 1
+        },
+        {
+            "productNumber": "050550637",
+            "name": "Walkers Smokey Bacon Crisps 34.5G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "057951808",
+            "name": "Red Bull Sugar Free Energy 4 X 250Ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "072557660",
+            "name": "Tesco Finest 4 British Beef Steak Burgers 454G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "072568727",
+            "name": "Popchips Sea Salt And Vinegar Potato Chips 23G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "082966788",
+            "name": "Hula Hoops Bbq Beef 6X24g",
+            "shelf": 6
+        },
+        {
+            "productNumber": "054795404",
+            "name": "Tesco Corned Beef 340G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050257017",
+            "name": "Tesco Custard Cream Biscuits 400G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "084283193",
+            "name": "Mr Kipling Golden Syrup Flapjack",
+            "shelf": 1
+        },
+        {
+            "productNumber": "083590723",
+            "name": "Tesco Roasted Salted Peanuts 200G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "062569085",
+            "name": "Tesco Baby Plum Tomato 325G (C)",
+            "shelf": 3
+        },
+        {
+            "productNumber": "050518631",
+            "name": "Cadbury Fair Trade Hot Chocolate Instant 400G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "083044196",
+            "name": "Graze Cocoa And Vanilla Bar 4 X 30G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "066030497",
+            "name": "Lindt Excellence Dark Touch Of Sea Salt Chocolate Bar 100G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "073229650",
+            "name": "Airwaves Menthol And Eucalyptus Gum Bottle 46 Pcspmp2.0",
+            "shelf": 7
+        },
+        {
+            "productNumber": "058208375",
+            "name": "Tick Tock Rooibos Tea 40 Tea Bags 90G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050440998",
+            "name": "Pataks Madras Spice Paste Medium Hot Jar 283G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "050313579",
+            "name": "Lemons Each",
+            "shelf": 2
+        },
+        {
+            "productNumber": "083043646",
+            "name": "Tesco Imperator Carrot 450G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "068202049",
+            "name": "Tesco Salt And Pepper Nut Mix Snack Pack 55G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "085557755",
+            "name": "Ocean Spray Wholeberry Cranberry 250Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "070461574",
+            "name": "Tesco Finest Dark Chocolate Ginger Cookies 200G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "051470592",
+            "name": "Skittles Fruits 55G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050039633",
+            "name": "Mcdougalls Self Raising Flour 1.25Kg",
+            "shelf": 8
+        },
+        {
+            "productNumber": "084885532",
+            "name": "Cadbury Oreo Bites 110G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "051344068",
+            "name": "Kelloggs All Bran Cereal 500G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "071862806",
+            "name": "Doritos Cool",
+            "shelf": 3
+        },
+        {
+            "productNumber": "054120138",
+            "name": "Mcvities Carrs Cheese Melts 150",
+            "shelf": 4
+        },
+        {
+            "productNumber": "082720866",
+            "name": "Tesco Longlife Unsweetened Soya Milk Alternative 1L",
+            "shelf": 5
+        },
+        {
+            "productNumber": "050080323",
+            "name": "Cadbury Fair Trade Dairy Milk 230G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "052795972",
+            "name": "Nivea 75ml Soft Moisturising Creme",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050084019",
+            "name": "Smarties Tube 38G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "062143675",
+            "name": "Ella's Kitchen Butternut Carrot Apple Prune 120G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "070550624",
+            "name": "Tesco Pecan Halves 200G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "067609388",
+            "name": "Tesco 15 Cornflake Bites",
+            "shelf": 3
+        },
+        {
+            "productNumber": "074057373",
+            "name": "Pampers New Baby Size 2 Carry Pack - 32 nappies",
+            "shelf": 4
+        },
+        {
+            "productNumber": "068203100",
+            "name": "Tesco Roasted Nut Mix Snack Pack 55G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "082873546",
+            "name": "Galaxy Minstrels Pouch 118G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "067547986",
+            "name": "Pringles Bbq 200G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "081301016",
+            "name": "New York Bakery Sesame Bagel 5 Pack",
+            "shelf": 8
+        },
+        {
+            "productNumber": "051849721",
+            "name": "Tesco Stars Party Cake",
+            "shelf": 1
+        },
+        {
+            "productNumber": "080930062",
+            "name": "Cadbury Fingers Milk Chocolate 138G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "055228989",
+            "name": "Swizzels Drumstick Lolly",
+            "shelf": 3
+        },
+        {
+            "productNumber": "054891388",
+            "name": "Maynards Wine Gums Roll",
+            "shelf": 4
+        },
+        {
+            "productNumber": "055220214",
+            "name": "Yorkie Raisin And Biscuit 44G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "071434594",
+            "name": "Kp Nik Naks Nice & Spicysnck Grab Bag 50G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "051578298",
+            "name": "Munchies Tube 52G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "066567599",
+            "name": "Tesco Red Velvet Cupcake 2 Pack",
+            "shelf": 8
+        },
+        {
+            "productNumber": "051550486",
+            "name": "Lil Lets Non Applicator Regular Tampons 16 Pack",
+            "shelf": 1
+        },
+        {
+            "productNumber": "059428458",
+            "name": "Thorntons Mini Caramel Shortcks 9Pk Price Marked",
+            "shelf": 2
+        },
+        {
+            "productNumber": "083688361",
+            "name": "Tesco Chocolate Muffin",
+            "shelf": 3
+        },
+        {
+            "productNumber": "079839448",
+            "name": "Belvita Soft Bakes Chocolate Chip 250G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "084903512",
+            "name": "Skittles Fruits Pouch 196G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "057693572",
+            "name": "Nescafe Cafe Menu Latte 156G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "081780571",
+            "name": "Nature Valley Protein Peanut And Chocolate Bars 4X40g",
+            "shelf": 7
+        },
+        {
+            "productNumber": "062143698",
+            "name": "Ella's Kitchen Strawberries Plus Apples 120G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "055746341",
+            "name": "Tesco Chocolate Party Traybake Each",
+            "shelf": 1
+        },
+        {
+            "productNumber": "056129402",
+            "name": "Tropicana Original Orange Juice 300Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "065479152",
+            "name": "Tesco 85% Cocoa Plain Chocolate Bar 100G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "085038552",
+            "name": "Tesco Ribeye Steak 226G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "062307275",
+            "name": "Tesco Garlic 2 Pack (C)",
+            "shelf": 5
+        },
+        {
+            "productNumber": "060754462",
+            "name": "Sensations Thai Sweet Chilli 150G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "052355007",
+            "name": "Wrights Mixed Grain Bread Mix 500G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "067879729",
+            "name": "WHITE BATON",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050713866",
+            "name": "Tesco Chocolate Party Cake",
+            "shelf": 1
+        },
+        {
+            "productNumber": "052822647",
+            "name": "Kelloggs Nutrigrain Strawberry 37G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "053599293",
+            "name": "Dr Pepper 500Ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "056007458",
+            "name": "Tesco Smoked Salmon 100G (C)",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050360758",
+            "name": "Tesco Ground Almonds 100G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "080727228",
+            "name": "Tesco Maple Bbq Pork Loin Steaks 600G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "073069867",
+            "name": "Tesco Finest Super Seeded Bread 800G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "055760507",
+            "name": "Princes Tuna Chunks Spring Water 4X160g",
+            "shelf": 8
+        },
+        {
+            "productNumber": "054109838",
+            "name": "Nature Valley Crunchy Granola Oats And Honey 5X42g",
+            "shelf": 1
+        },
+        {
+            "productNumber": "050031273",
+            "name": "Carnation Evaporated Milk 170G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "064123523",
+            "name": "Tesco Lamb Steaks 320G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "084656766",
+            "name": "Tesco Almond Shot 25G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "051012415",
+            "name": "NIVEA SUN Protect & Moisture Moisturising Sun Spray 15 Medium 200ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "072906708",
+            "name": "Quaker Oat So Simple Golden Syrup Porridge 10X36g (C)",
+            "shelf": 6
+        },
+        {
+            "productNumber": "063927392",
+            "name": "Robinsons Fruit Shoot Orange No Added Sugar 4X200ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050033639",
+            "name": "Hartleys Strawberry Jelly 135G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050913658",
+            "name": "NIVEA SUN Protect & Moisture Moisturising Sun Spray 30 High 200ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "072644038",
+            "name": "Kinder Chocolate Cereal 23.5G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "057047687",
+            "name": "Tesco Fruit And Nut 200G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "083346668",
+            "name": "Berries Juice 360Ml Cherry And Goji Berries Juice 360Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "054098066",
+            "name": "Nestle Yorkie Milk 70G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "051375365",
+            "name": "Tesco Southern Fried Chicken Mini Fillets 305G (C)",
+            "shelf": 6
+        },
+        {
+            "productNumber": "050695454",
+            "name": "Tesco Easy Cook Long Grain Rice 500G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "056577723",
+            "name": "Mars The Big One 85G (C)",
+            "shelf": 8
+        },
+        {
+            "productNumber": "057928486",
+            "name": "Tesco Finest Scottish Shortbread Fingers 165G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "067754366",
+            "name": "Tesco Sweet And Salted Popcorn 110G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050353053",
+            "name": "Cadbury Dairy Milk Whole Nut Chocolate Bar 200G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "057639655",
+            "name": "Simple Kind To Skin Cleansing Facial Wipes 25'S",
+            "shelf": 4
+        },
+        {
+            "productNumber": "057963218",
+            "name": "Tesco Teeth And Lips 100G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "054678941",
+            "name": "Green & Blacks Organic White Chocolate Bar 100G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "061170505",
+            "name": "Uncle Bens Special Spicy Mexican Rice 250G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "067839582",
+            "name": "Tesco Pine Nuts 100G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "054739758",
+            "name": "Banana Each (C)",
+            "shelf": 1
+        },
+        {
+            "productNumber": "080147119",
+            "name": "Walkers Max Flamin Hot Crisps 50G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "064117456",
+            "name": "Tropicana Orange And Mango Juice 300Ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "057830324",
+            "name": "Berocca Effervescent 15 S",
+            "shelf": 4
+        },
+        {
+            "productNumber": "076109822",
+            "name": "Tesco Jam Doughnuts 5 Pack",
+            "shelf": 5
+        },
+        {
+            "productNumber": "080051595",
+            "name": "Tesco Chunky Chocolate 10 Cookies 200G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "084478700",
+            "name": "Cadbury Chocolate Eclairs 166G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "051455979",
+            "name": "Tesco Butter Mintoes 200G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "083003429",
+            "name": "Mrs Crimble's Jam Sponge Cake 50G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "084792912",
+            "name": "Fever Tree Light Ginger Ale 500Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050695713",
+            "name": "Tesco Fusilli Pasta 500G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "050869860",
+            "name": "Kenco Decaffeinated Instant Coffee 100G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050711131",
+            "name": "Kellogg's Corn Flakes 450G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "080761048",
+            "name": "Magnum Classic Ice Cream 110Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "074023603",
+            "name": "Tesco 10 Mini Gingerbread Men",
+            "shelf": 7
+        },
+        {
+            "productNumber": "074668272",
+            "name": "Tesco Lean Beef Steak Mince 5% Fat 250G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "070821500",
+            "name": "Head And Shoulders 2 In 1 Classic Clean Shampoo Conditioner 225Ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "067881036",
+            "name": "WHITE DEMI BAGUETTE 3PK (C)",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050659072",
+            "name": "Shloer Red Grape Juice 750Ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "065366965",
+            "name": "Emmi Caffe Latte Skinny 230Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "067839714",
+            "name": "Tesco Pistachio 200G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "070482416",
+            "name": "Uncle Bens Rice Time Sweet And Sour 300G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "078747253",
+            "name": "Tesco Finest Garlic And Coriander Naan Bread 2 Pack 320G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "078797515",
+            "name": "Nakd Nibbles Salted Caramel 40G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "053409698",
+            "name": "Tesco 8 White Tortilla Wraps",
+            "shelf": 1
+        },
+        {
+            "productNumber": "050043351",
+            "name": "Bisto Favourite Gravy Granules 170G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "056874446",
+            "name": "Innocent Mangoes Passion Fruit 250Ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "071214492",
+            "name": "Otrivine Allergy 0.1% Nasal Spray10ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "082702479",
+            "name": "Happy Egg Co. Free Range Eggs 10 Mixed Weight",
+            "shelf": 5
+        },
+        {
+            "productNumber": "082150132",
+            "name": "Tesco Carrot 500G (C)",
+            "shelf": 6
+        },
+        {
+            "productNumber": "080259119",
+            "name": "NATURE VALLEY POPCORN P/NUT & SEEDS 20G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "056499493",
+            "name": "Tena Lady Extra - 10 Pack",
+            "shelf": 8
+        },
+        {
+            "productNumber": "051777696",
+            "name": "Trebor Softmints Single Tube",
+            "shelf": 1
+        },
+        {
+            "productNumber": "050366090",
+            "name": "Johnsons Cotton Buds 200 Pack",
+            "shelf": 2
+        },
+        {
+            "productNumber": "084902815",
+            "name": "Milkybar Pouch Bag 103G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "081827609",
+            "name": "Kiddylicious Veggie Straws 12G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "085314818",
+            "name": "Cadbury Joyfills Chocolate Creme 90G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "084901799",
+            "name": "Hellmann's Smokey Caesar Dressing 210Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "083547217",
+            "name": "Tesco Vanilla Iced Doughnut",
+            "shelf": 7
+        },
+        {
+            "productNumber": "085314830",
+            "name": "Oreo Joyfills Vanilla Creme 90G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "085487526",
+            "name": "Cow & Gate 1 First Milk Powder 800G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "057477477",
+            "name": "Tesco Cucumber Whole Each (C)",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050196653",
+            "name": "Tesco Light Soft Brown Sugar 500G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "059202161",
+            "name": "Coke Zero 500 Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "054193293",
+            "name": "Vaseline Lip Therapy Original 20G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "050022261",
+            "name": "Tesco Short Spaghetti Pasta 500G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "081439602",
+            "name": "Tesco Free From Gluten Syrup Porridge Pot 55G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "051954918",
+            "name": "Kingsmill Soft White Thick Bread 800G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "085487532",
+            "name": "Cow & Gate 2 Follow On Milk Powder 800G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "052884141",
+            "name": "Tesco Cotton Wool Round Pads 100'S",
+            "shelf": 2
+        },
+        {
+            "productNumber": "057367538",
+            "name": "Sure Men Sensitive Stick Antiperspirant Deodorant 50Ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "080473896",
+            "name": "Alberto Balsam Raspberry Conditioner 350Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "072933318",
+            "name": "Tesco Superberry Granola 500G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "052121987",
+            "name": "Twinings Pure Camomile 20 Tea Bags 30G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "064810349",
+            "name": "Tesco Finest Smoked Wiltshire Bacon 240G (C)",
+            "shelf": 7
+        },
+        {
+            "productNumber": "051159472",
+            "name": "Tunnocks Milk Chocolate Caramel Wafer 240G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "054167929",
+            "name": "After Eight Mints Carton 300G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "084885794",
+            "name": "Naked Green Machine Apple Banana Smoothie 360Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "060495111",
+            "name": "Strepsils Honey And Lemon 16S",
+            "shelf": 3
+        },
+        {
+            "productNumber": "068021384",
+            "name": "Tesco Millionaire Bites 22Pk",
+            "shelf": 4
+        },
+        {
+            "productNumber": "080567647",
+            "name": "Tesco Free From Chocolate Chip Cookie Dairy Free 145G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "050043800",
+            "name": "Knorr Chicken Stock Cubes 8 X 10G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "055426490",
+            "name": "Mugshot Tomato And Herb Pasta 64G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "084793326",
+            "name": "Monster Energy 440Ml",
+            "shelf": 8
+        },
+        {
+            "productNumber": "084854445",
+            "name": "Tesco Cinnamon Swirl Nut Mix 40G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "052873048",
+            "name": "Calpol Infant Sugar Free Liquid - 100ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "075998426",
+            "name": "John West Steam Pot Tuna Infusions Garlic Chilli 150G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "055763124",
+            "name": "Tesco 6 Soft White Hot White Hot",
+            "shelf": 4
+        },
+        {
+            "productNumber": "055128946",
+            "name": "Uncle Bens Classic Basmati Rice 250G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "053719106",
+            "name": "John West Light Lunch French Style 220",
+            "shelf": 6
+        },
+        {
+            "productNumber": "053845002",
+            "name": "Tesco Cous Cous 500G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050689433",
+            "name": "Tesco Sussex Mixed Peppers 3 Pack",
+            "shelf": 8
+        },
+        {
+            "productNumber": "053701311",
+            "name": "Alpen No Added Sugar Muesli 560G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "083828156",
+            "name": "Schweppes Slimline Tonic 6X150ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "062857896",
+            "name": "Franks Red Hot Original Cayenne Pepper Sauce 148Ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "051305403",
+            "name": "Uncle Bens Special Savoury Chicken Rice 250G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "084283187",
+            "name": "Mr Kipling Cherry Bakewell Flapjack",
+            "shelf": 5
+        },
+        {
+            "productNumber": "056386718",
+            "name": "Eat Natural Almond And Apricot Yogurt Coated Bar 50G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "050437542",
+            "name": "Tesco Sweet Shop Mint Humbugs 200G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "073458263",
+            "name": "The Spice Tailor Keralan Coconut Curry 225G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "081026958",
+            "name": "Airwaves Extreme Menthol And Eucalyptus",
+            "shelf": 1
+        },
+        {
+            "productNumber": "078775806",
+            "name": "Terrys Chocolate Orange 125G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "078940496",
+            "name": "Innocent Coconut Water 500Ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "052774450",
+            "name": "Compeed Blister Medium 5 Pack",
+            "shelf": 4
+        },
+        {
+            "productNumber": "071844293",
+            "name": "SMA Pro First Milk From Birth 200ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "079632122",
+            "name": "Naked Noodle Sweet Chilli Flavour 78G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "076420147",
+            "name": "Innocent Super Smoothie Energise 360Ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "075515187",
+            "name": "Milk Chocolate Cookies 5 Pack",
+            "shelf": 8
+        },
+        {
+            "productNumber": "066302648",
+            "name": "Fever Tree Premium Indian Tonic Water 500Ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "051771662",
+            "name": "Hellmann's Real Squeezy Mayonnaise 430Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "054276973",
+            "name": "Wrig Extra Ice Peppermint With Microgranules 10",
+            "shelf": 3
+        },
+        {
+            "productNumber": "056041447",
+            "name": "Mccoys Cheddar And Onion Crisps 47.5G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "079793247",
+            "name": "Nutribrex Gluten Free Cereal 375G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "051976161",
+            "name": "Lotus Biscoff 250G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "080120220",
+            "name": "Fibre One Chocolate Fudge Brownie Bars 5X24g",
+            "shelf": 7
+        },
+        {
+            "productNumber": "053337955",
+            "name": "Tesco Paracetamol Capsule Tablets 500Mg 16",
+            "shelf": 8
+        },
+        {
+            "productNumber": "078382758",
+            "name": "Kp Hula Hoops Original 6X24g",
+            "shelf": 1
+        },
+        {
+            "productNumber": "077255652",
+            "name": "Tesco Chicken Breast Portions 715G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "075407776",
+            "name": "Tesco Healthy Living French Dressing 250Ml",
+            "shelf": 3
+        },
+        {
+            "productNumber": "054739758",
+            "name": "Banana Each (C)",
+            "shelf": 4
+        },
+        {
+            "productNumber": "071643882",
+            "name": "Tesco 12 Party Cupcakes",
+            "shelf": 5
+        },
+        {
+            "productNumber": "057753093",
+            "name": "Jaffa Clementine Or Sweet Easy Peel Pack 600G (C)",
+            "shelf": 6
+        },
+        {
+            "productNumber": "050039685",
+            "name": "Mcdougalls Plain Flour 1.25Kg",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050342020",
+            "name": "Olay Classic Beauty Fluid Regular 200ml",
+            "shelf": 8
+        },
+        {
+            "productNumber": "078622487",
+            "name": "Mr Kipling Chocolate Slices 8 Pack",
+            "shelf": 1
+        },
+        {
+            "productNumber": "059809970",
+            "name": "Dorset Cereals Simply Delicious Muesli 850G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "075236396",
+            "name": "Celebrations Carton 240G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "055865211",
+            "name": "Blue Dragon Chow Mein Stir Fry Sauce 120G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "075790648",
+            "name": "Tesco Vegetable Oil 500Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "050932480",
+            "name": "Bassetts Jelly Babies 190G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "054317897",
+            "name": "Kingsmill Tasty Wholemeal Medium Bread 800G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "080567780",
+            "name": "Tesco Free From Ginger Nut Biscuits 180G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050081875",
+            "name": "Trebor Extra Strong Peppermint 4 Pack 165G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "066193983",
+            "name": "Starbucks Doubleshot Espresso 200Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "082873425",
+            "name": "M&Ms Crispy Pouch 121G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "057821335",
+            "name": "Galaxy Ripple 4 Pack 132G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "053939462",
+            "name": "Green And Blacks Organic Cocoa Fair Trade 125G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "057883451",
+            "name": "Ryvita Dark Rye Crisp Bread 250G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "051826466",
+            "name": "Lindt Excellence Dark 70% Cocoa Chocolate Bar 100G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050377860",
+            "name": "Batchelors Cup A Soup Powder Cream Of Vegetable 4S 122G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "077575463",
+            "name": "Yupi Gummy Pizza 23G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "052396718",
+            "name": "Haribo Starmix Mini Bag 16G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "084478585",
+            "name": "Maynards Sports Mix Bag 190G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "084656752",
+            "name": "Tesco Mixed Nuts And Pecans Shots 25G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "067543430",
+            "name": "Tesco Hunters Chicken Breast Fillets 430G (C)",
+            "shelf": 5
+        },
+        {
+            "productNumber": "058083858",
+            "name": "Tesco Organic Extra Virgin Olive Oil 500Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "066663888",
+            "name": "Tesco Finest Cheese And Onion Crisps 40G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "084511644",
+            "name": "Nestle Extreme Salted Caramel White Chocolate 120Ml",
+            "shelf": 8
+        },
+        {
+            "productNumber": "080447862",
+            "name": "Cadbury Dairy Milk Duo 65G (P)",
+            "shelf": 1
+        },
+        {
+            "productNumber": "083729043",
+            "name": "Rocky Road Slice",
+            "shelf": 2
+        },
+        {
+            "productNumber": "082149872",
+            "name": "Mcvities 4 Toasting Waffles",
+            "shelf": 3
+        },
+        {
+            "productNumber": "077576168",
+            "name": "CAD TWINPACK MINI ROLLS",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050688895",
+            "name": "Warburtons Toastie Sliced White Bread 400G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "063954779",
+            "name": "Swizzels Matlow Wine Gummies Single 16G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "059246892",
+            "name": "Tesco Finest Roasted Nut Kernels 225G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "071772383",
+            "name": "Wrigleys Spearmint 7 Sticks",
+            "shelf": 8
+        },
+        {
+            "productNumber": "070663174",
+            "name": "Covonia Dry And Tickly Cough Linctus 180Ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "052221638",
+            "name": "Loyd Grossman Tomato And Basil Pasta Sauce 350G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "082041270",
+            "name": "Wotsits Cheese 36G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "081103352",
+            "name": "Haagen Dazs Salted Caramel 80Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "082351663",
+            "name": "Nakd Peanut Delight 4X35g",
+            "shelf": 5
+        },
+        {
+            "productNumber": "085275230",
+            "name": "Butterkist Popcorn Toffee 60G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "070592948",
+            "name": "Bear Strawberry Year Old Year Old Multiback 5X20g",
+            "shelf": 7
+        },
+        {
+            "productNumber": "084810175",
+            "name": "Tesco Mango 50G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "080762122",
+            "name": "Magnum Double Caramel Ice Cream 88Ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "050083775",
+            "name": "Starburst Fruit Chews Stick 45G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "075846941",
+            "name": "Tesco Hayfever And Allergy 30 Tablets",
+            "shelf": 3
+        },
+        {
+            "productNumber": "054213806",
+            "name": "NIVEA Lip Essential Care Shea Butter 4.8g",
+            "shelf": 4
+        },
+        {
+            "productNumber": "079632104",
+            "name": "Naked Noodle Singapore Curry 78G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "082168235",
+            "name": "Lucozade Sport Fit Water 600Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "073325403",
+            "name": "Nescafe Azera Americano Instant Coffee 100G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050450681",
+            "name": "Lucozade Energy Original 1L Bottle",
+            "shelf": 8
+        },
+        {
+            "productNumber": "067880652",
+            "name": "TESCO CHEESE TWIST EACH (C)",
+            "shelf": 1
+        },
+        {
+            "productNumber": "051308613",
+            "name": "Cadbury Mini Rolls Milk Chocolate 10 Pack",
+            "shelf": 2
+        },
+        {
+            "productNumber": "084104752",
+            "name": "Heinz Vegetable Soup 400G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "077472054",
+            "name": "Tesco Finest Red Velvet Cake",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050926021",
+            "name": "Cadbury Fudge Single",
+            "shelf": 5
+        },
+        {
+            "productNumber": "077054498",
+            "name": "BELVITA B/FAST STRAWBERRY DUO CRUNCH 50.6g",
+            "shelf": 6
+        },
+        {
+            "productNumber": "084436382",
+            "name": "Tesco Lean Pork Mince 5% Fat 500g",
+            "shelf": 7
+        },
+        {
+            "productNumber": "060325129",
+            "name": "Wrigleys Extra Bottle Spearmint 60 Pieces",
+            "shelf": 8
+        },
+        {
+            "productNumber": "085245220",
+            "name": "Tesco Finest Super Grained Farmhouse Sproutedrye 800G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "083602982",
+            "name": "Galaxy Cookies 180G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "062837937",
+            "name": "Walkers Sunbites Sour Cream And Black Pepper 6X25g",
+            "shelf": 3
+        },
+        {
+            "productNumber": "050870097",
+            "name": "Tesco Madeira Cake",
+            "shelf": 4
+        },
+        {
+            "productNumber": "080579345",
+            "name": "Eat Natural Bars Maple Syrup Pecan And Peanut 45G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "060504459",
+            "name": "Kingsmill 50/50 Medium Bread 800G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "084105244",
+            "name": "Heinz Spaghetti Hoops In Tomato Sauce 400G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "067575766",
+            "name": "Tesco Wholefoods Roasted Monkey Nuts 250G (C)",
+            "shelf": 8
+        },
+        {
+            "productNumber": "067829611",
+            "name": "Quaker Oat So Simple Sweet Cinnamon Porridge 57G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "054959085",
+            "name": "Lindt Lindor Milk Chocolate Truffles Carton 200G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "074593682",
+            "name": "Tesco Granola Flapjack 60G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "070592862",
+            "name": "Dr. Oetker Party Candles 18'S",
+            "shelf": 4
+        },
+        {
+            "productNumber": "066192080",
+            "name": "Starbucks Seattle Latte 220Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "050063880",
+            "name": "Mr Kipling Bramley Apple Pies 6 Pack",
+            "shelf": 6
+        },
+        {
+            "productNumber": "052496456",
+            "name": "Johnson & Johnson Clean & Clear Exfoliating Daily Wash 150ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "085275190",
+            "name": "Mcvities Milk Chocolate Digestive 266G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "077617927",
+            "name": "Clearblue Visual Pregnancy Test 1ct",
+            "shelf": 1
+        },
+        {
+            "productNumber": "080965412",
+            "name": "Lucozade Energy Zero Orange 500Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "070482174",
+            "name": "Dolmio Pasta Vita Tomato And Basil 300G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "065102646",
+            "name": "Tesco Finest Piccolo Cherry Tomatoes 220G (C)",
+            "shelf": 4
+        },
+        {
+            "productNumber": "084436612",
+            "name": "Quaker Protein Original Porridge Pot 54G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "050061006",
+            "name": "Weetabix Cereal 24 Pack",
+            "shelf": 6
+        },
+        {
+            "productNumber": "067655430",
+            "name": "Tesco Chocolate Brownie Bites 20 Pack",
+            "shelf": 7
+        },
+        {
+            "productNumber": "051319992",
+            "name": "Schweppes Diet Lemonade 2 Litre Bottle",
+            "shelf": 8
+        },
+        {
+            "productNumber": "053440193",
+            "name": "Old El Paso Sliced Green Jalapenos 215G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "050761733",
+            "name": "Mr Kipling Bakewell Slice 6 Pack",
+            "shelf": 2
+        },
+        {
+            "productNumber": "085315112",
+            "name": "Belvita Breakfast Soft Bakes Blueberry 250G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "051469024",
+            "name": "Geeta's Mango Chutney 320G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "060960436",
+            "name": "KELLOGGS CRUNCHY NUT BAR PEANUT   & CHOC 35G      ",
+            "shelf": 5
+        },
+        {
+            "productNumber": "072568007",
+            "name": "Fever-Tree Naturally Light Tonic Water 500Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "050070122",
+            "name": "Ritz Crackers 200G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "051486297",
+            "name": "Bahlsen Milk Choco Leibniz 125G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "057904284",
+            "name": "Kelloggs Crunchy Nut Chocolate Clusters 450G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "063011012",
+            "name": "Calpol 6+ Sugar Free 80Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "083043836",
+            "name": "Graze Honey And Oat Bar 4 X 30G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "057501639",
+            "name": "Bepanthen Ointment 30g",
+            "shelf": 4
+        },
+        {
+            "productNumber": "050203894",
+            "name": "Pepsi Cola 2 Litre Bottle",
+            "shelf": 5
+        },
+        {
+            "productNumber": "083530876",
+            "name": "Tesco Finest Root Vegetable Crisps Sea Salt 125G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "059202529",
+            "name": "Coca Cola Zero 2 Litre",
+            "shelf": 7
+        },
+        {
+            "productNumber": "065206286",
+            "name": "Tesco Sweet Chilli Coated Peanuts 200G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "056577429",
+            "name": "Imodium Instants 6 Pack",
+            "shelf": 1
+        },
+        {
+            "productNumber": "077092037",
+            "name": "Heinz Cream Of Tomato Cup Soup 88G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "051507700",
+            "name": "Halls Soothers Blackcurrant 10'S",
+            "shelf": 3
+        },
+        {
+            "productNumber": "081812362",
+            "name": "Toblerone Milk 150G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "054096045",
+            "name": "Calippo Orange Ice Lolly 105Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "054158094",
+            "name": "Evian Natural Mineral Water 50Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "071666704",
+            "name": "Soreen Banana Lunchbox Loaves 5 Pack",
+            "shelf": 7
+        },
+        {
+            "productNumber": "073837137",
+            "name": "Cadbury Dairy Candy Bar 180G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "083648305",
+            "name": "Kit Kat Chunky New York Cheesecake 42G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "052536859",
+            "name": "Cadbury Wispa Duo 51G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "076296800",
+            "name": "Dr.Oetker Baking Powder Tub 170G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "076982380",
+            "name": "Eat Natural Protein Bar 3 X 45G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "055206163",
+            "name": "Ribena Blackcurrant Bottle 500Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "051686291",
+            "name": "Tesco Mackerel Fillets In Tomato 125G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "051179373",
+            "name": "7-Up Light Lemon And Lime 6X330ml Pack",
+            "shelf": 7
+        },
+        {
+            "productNumber": "052584415",
+            "name": "Tesco Italian Chopped Tomatoes 400G Ce",
+            "shelf": 8
+        },
+        {
+            "productNumber": "050031745",
+            "name": "Carnation Sweetened Condensed Milk 397G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "052702790",
+            "name": "Pataks Tikka Masala Medium Sauce 450G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "082873598",
+            "name": "Galaxy Minstrels Large Pouch 210G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "055482963",
+            "name": "Johnsons Baby   Gold Shampoo    300Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "074848641",
+            "name": "Lea And Perrins Wocestershire Sauce 150Ml (C)",
+            "shelf": 5
+        },
+        {
+            "productNumber": "083610534",
+            "name": "Deliciously Ella Gluten Free Cacao And Almond Bars 3X50g",
+            "shelf": 6
+        },
+        {
+            "productNumber": "054653884",
+            "name": "Kettle Sea Salt And Black Peppercrisps 40G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050364967",
+            "name": "Robinsons Orange Squash No Added Sugar 1L",
+            "shelf": 8
+        },
+        {
+            "productNumber": "056550766",
+            "name": "Cadbury Flake 99 Ice Cream Cone 125Ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "058711314",
+            "name": "Kinnerton Milk Chocolate Lolly 22G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "050505410",
+            "name": "Bisto Chicken Gravy Granules 170G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "067879770",
+            "name": "Cinnamon Swirl",
+            "shelf": 4
+        },
+        {
+            "productNumber": "078621690",
+            "name": "Mr Kipling 8 Angel Slices Slices",
+            "shelf": 5
+        },
+        {
+            "productNumber": "074800968",
+            "name": "Durex Extra Safe 6S",
+            "shelf": 6
+        },
+        {
+            "productNumber": "063642814",
+            "name": "Nivea Men Cool Kick Antiperspirant Deodorant 150Ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "081748412",
+            "name": "Tyrrells Sweet Potato And Chilli 35G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "083391072",
+            "name": "Urban Kitchen Tomato And Basil Soup 400G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "054704018",
+            "name": "Tesco Cheese Twists 125G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "058974077",
+            "name": "Cadbury Twirl 4 Pack 136G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "050066404",
+            "name": "Mcvities Digestive 400G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "075919222",
+            "name": "Durex Thin Feel 6S",
+            "shelf": 5
+        },
+        {
+            "productNumber": "065891233",
+            "name": "Mugshot Roast Chicken Pasta 55G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "079649425",
+            "name": "Tesco Finest Berry And Cherry Muesili 500G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "079915312",
+            "name": "Pampers Baby Dry Pants Size 6 Carry 19",
+            "shelf": 8
+        },
+        {
+            "productNumber": "071819139",
+            "name": "Belvita Strawberry And Yogurt Crunch 253G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "061768438",
+            "name": "Benylin Chesty Non Drowsy Cough 150Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "079873746",
+            "name": "Oomf Protein Porridge Golden Syrup 75G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "054749184",
+            "name": "Tesco Finest 4 All Butter Croissants",
+            "shelf": 4
+        },
+        {
+            "productNumber": "074214717",
+            "name": "Dr.Oetker Madagascan Vanilla 35Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "051478186",
+            "name": "Neutrogena Norwegian Formula Hand Cream Unscented 50Ml",
+            "shelf": 6
+        },
+        {
+            "productNumber": "051217657",
+            "name": "Tesco 4 All Butter Croissants",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050579707",
+            "name": "7 Up Light Lemon And Lime 2 Litre Bottle",
+            "shelf": 8
+        },
+        {
+            "productNumber": "078889844",
+            "name": "Tesco Snacking Roasted Pistachio 50G(C)",
+            "shelf": 1
+        },
+        {
+            "productNumber": "050208094",
+            "name": "Tesco Dairy Fudge 175G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "058299488",
+            "name": "Tesco Finest Aberdeen Angus Steak Mince 500G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "062609154",
+            "name": "Quaker Oat So Simple Apple Blueberry Porridge 10X36g",
+            "shelf": 4
+        },
+        {
+            "productNumber": "063675850",
+            "name": "Herbal Essences Dazzling Shine Shampoo 400Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "082536376",
+            "name": "Tena Lady Discreet Mini 20S",
+            "shelf": 6
+        },
+        {
+            "productNumber": "064664815",
+            "name": "Cadbury Dairy Milk Wispa Gold Bar 48G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "071562891",
+            "name": "Coca Cola Coke 375Ml",
+            "shelf": 8
+        },
+        {
+            "productNumber": "062505392",
+            "name": "Oreo Vanilla 154G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "062784250",
+            "name": "Hula Hoops Original Grab Bag 50G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "058504652",
+            "name": "Tesco Strawberry Flavour Laces 75G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "051039954",
+            "name": "Kingsmill Pancakes 6 Pack",
+            "shelf": 4
+        },
+        {
+            "productNumber": "076016367",
+            "name": "Wrigley Extra Bubblemint Gum Bottle 46 Pieces",
+            "shelf": 5
+        },
+        {
+            "productNumber": "079983322",
+            "name": "Tesco Bake At Home Petit Pain 6 Pack",
+            "shelf": 6
+        },
+        {
+            "productNumber": "071631320",
+            "name": "Tesco Almonds 200G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "070581944",
+            "name": "Batiste Dry Shampoo Original200Ml",
+            "shelf": 8
+        },
+        {
+            "productNumber": "055205947",
+            "name": "Ribena Blackcurrant Really Light 500Ml Bottle",
+            "shelf": 1
+        },
+        {
+            "productNumber": "070564222",
+            "name": "Mentos Mint Roll 38G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "081503584",
+            "name": "Pizza Pocket Pastry",
+            "shelf": 3
+        },
+        {
+            "productNumber": "067879804",
+            "name": "Tesco Maple Pecan Plait Each (C)",
+            "shelf": 4
+        },
+        {
+            "productNumber": "051771702",
+            "name": "Hellmann's Light Squeezy Mayonnaise 430Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "058454157",
+            "name": "Tesco Organic Cherry On The Vine Tomatoes 200G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "050659066",
+            "name": "Shloer White Grape 750Ml",
+            "shelf": 7
+        },
+        {
+            "productNumber": "052929631",
+            "name": "Chewits Strawberry Single 30G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "064383617",
+            "name": "Bonne Maman La Madeleine 7Pk",
+            "shelf": 1
+        },
+        {
+            "productNumber": "060316993",
+            "name": "Lynx Deodorant Africa Bodyspray 150Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "079730622",
+            "name": "Old El Paso Squeezy Chunky Salsa 238G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "079633207",
+            "name": "Orangina 420Ml",
+            "shelf": 4
+        },
+        {
+            "productNumber": "078939274",
+            "name": "Tesco British Chicken Thighs 600G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "055987888",
+            "name": "Fair Trade Brazil Nuts 150G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "054960664",
+            "name": "Pot Noodle King Chicken And Mushroom 114G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "056386690",
+            "name": "Eat Natural Brazil Sultana Almond Bar 50G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "080473942",
+            "name": "Alberto Balsam Raspberry Shampoo 350Ml",
+            "shelf": 1
+        },
+        {
+            "productNumber": "067609716",
+            "name": "Hp Bbq Classic Woodsmoke Sauce 465G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "053292091",
+            "name": "Pringles Sour Cream And Onion 40G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "050657080",
+            "name": "Tesco Soda Water 1 Litre",
+            "shelf": 4
+        },
+        {
+            "productNumber": "051115622",
+            "name": "Tesco Balsamic Vinegar Of Modena 250Ml",
+            "shelf": 5
+        },
+        {
+            "productNumber": "078775069",
+            "name": "Jacobs Cracker Crisps Sour Cream And Chive 150G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "065787979",
+            "name": "Benadryl One A Day Relief 14S",
+            "shelf": 7
+        },
+        {
+            "productNumber": "074363350",
+            "name": "Tesco Natural Breadcrumbs 175G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "064119686",
+            "name": "Twinings Green Tea And Lemon Tea20s 40G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "072568762",
+            "name": "Popchips Bbq Popped Potato Chips 23G",
+            "shelf": 2
+        },
+        {
+            "productNumber": "085314064",
+            "name": "Mcvitie's Milk Chocolate Hob Nob Thins 170G",
+            "shelf": 3
+        },
+        {
+            "productNumber": "051825450",
+            "name": "Kinder Surprise Egg 20G",
+            "shelf": 4
+        },
+        {
+            "productNumber": "065769546",
+            "name": "Kinnerton Plastic Surprise Egg 10G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "061948341",
+            "name": "Cadbury Dairy Milk Wispa Bar 36G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "050475945",
+            "name": "Lavazza Qualita Rossa Ground Coffee 250G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "050033841",
+            "name": "Ambrosia Creamed Rice 400G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "051008369",
+            "name": "Tesco Chickpeas In Water 400G",
+            "shelf": 1
+        },
+        {
+            "productNumber": "056411718",
+            "name": "Dove Deeply Nourishing Body Wash 250Ml",
+            "shelf": 2
+        },
+        {
+            "productNumber": "058328083",
+            "name": "Tesco Cucumber Facial Wipes 25",
+            "shelf": 3
+        },
+        {
+            "productNumber": "060104646",
+            "name": "Tesco Finest 4 Extra Fruity Hot Cross Buns",
+            "shelf": 4
+        },
+        {
+            "productNumber": "057292067",
+            "name": "Mccoys Salt And Vinegar Crisps 50G",
+            "shelf": 5
+        },
+        {
+            "productNumber": "050686989",
+            "name": "Tesco Penne Pasta Quills 500G",
+            "shelf": 6
+        },
+        {
+            "productNumber": "067840337",
+            "name": "Tesco Walnuts 200G",
+            "shelf": 7
+        },
+        {
+            "productNumber": "077535309",
+            "name": "Marvel Avengers Candy Sticks 18G",
+            "shelf": 8
+        },
+        {
+            "productNumber": "081493922",
+            "name": "Extra Coolbreeze 60 Piece Bottle 84G",
+            "shelf": 1
+        }
+    ],
+    "shelves": [
+        {
+            "shelfNum": 1,
+            "coordinates": {
+                "x": 3,
+                "y": 2
+            },
+            "xLength": 2,
+            "yLength": 3
+        },
+        {
+            "shelfNum": 2,
+            "coordinates": {
+                "x": 3,
+                "y": 5
+            },
+            "xLength": 2,
+            "yLength": 2
+        },
+        {
+            "shelfNum": 3,
+            "coordinates": {
+                "x": 3,
+                "y": 7
+            },
+            "xLength": 2,
+            "yLength": 4
+        },
+        {
+            "shelfNum": 4,
+            "coordinates": {
+                "x": 8,
+                "y": 2
+            },
+            "xLength": 2,
+            "yLength": 3
+        },
+        {
+            "shelfNum": 5,
+            "coordinates": {
+                "x": 7.5,
+                "y": 5
+            },
+            "xLength": 3,
+            "yLength": 2
+        },
+        {
+            "shelfNum": 6,
+            "coordinates": {
+                "x": 8,
+                "y": 7
+            },
+            "xLength": 2,
+            "yLength": 2
+        },
+        {
+            "shelfNum": 7,
+            "coordinates": {
+                "x": 14,
+                "y": 2
+            },
+            "xLength": 3,
+            "yLength": 3
+        },
+        {
+            "shelfNum": 8,
+            "coordinates": {
+                "x": 14,
+                "y": 7
+            },
+            "xLength": 2,
+            "yLength": 4
+        }
+    ]
+}
