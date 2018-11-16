@@ -19,6 +19,10 @@ products.forEach(product => shelves[product.shelf - 1].products.push(product))
 
 
 //api routing
+app.get('/api/store', (req, res) => {
+    res.json(data.store)
+})
+
 app.get('/api/shelves', (req, res) => {
     res.json(shelves)
 })
@@ -27,6 +31,9 @@ app.get('/api/:shelfID/products', (req, res) => {
     const shelf = shelves[req.params.shelfID - 1].products
     res.json(shelf)
 })
+
+
+
 
 //return client SPA
 app.get('*', (req, res) => {
