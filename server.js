@@ -1,3 +1,4 @@
+const path = require('path')
 const express = require('express')
 const morgan = require('morgan')
 const data = require('./data/DATA.json')
@@ -6,6 +7,7 @@ const data = require('./data/DATA.json')
 const app = express()
 const PORT = process.env.PORT || 3030
 app.use(morgan('dev'))
+app.use(express.static(path.resolve(__dirname, 'build')))
 
 // prepare the data
 const shelves = data.shelves.map(shelf => {
@@ -28,7 +30,7 @@ app.get('/api/:shelfID/products', (req, res) => {
 
 //return client SPA
 app.get('*', (req, res) => {
-    res.send('Hello Supermarket!')
+    res.sendFile(path.resolve(__dirname, 'build/index.html'))
 })
 
 //start server
