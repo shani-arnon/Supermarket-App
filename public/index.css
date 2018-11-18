@@ -1,0 +1,10 @@
+.product-item:nth-child(even) {
+    background: honeydew;
+  }
+  .product-item:nth-child(odd) {
+    background: white;
+  }
+  
+  /* .product:hover {
+    background: paleturquoise;
+  } */

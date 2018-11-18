@@ -9,6 +9,7 @@ const Supermarket = ({ store_name, store_width, store_length, tile_size, shelves
             <Title>
                 {`Welcome to ${store_name}!`}
             </Title>
+
             <StoreTiles columns={store_width} rows={store_length} size={tile_size}>
                 {generate_grid(store_width * store_length, tile_size)}
                 {generate_shelves(shelves, store_length, tile_size, get_shelf_inventory)}
@@ -44,24 +45,12 @@ const generate_shelves = (shelves_data, store_length, tile_size, get_shelf_inven
     return shelves;
 }
 
-// const ShelvesBox = styled.div`
-//     position:absolute;
-//     /* display: grid; */
-//     background-color:rgba(0,0,0,0.1);
-//     min-width:10vw;
-//     min-height:10vh;
-//     top:0;
-//     right:0;
-//     bottom:0;
-//     left:0;
-// `
-
-const Shelf = styled.div`
+export const Shelf = styled.div`
     position:absolute;
-    top:${p => p.top}px;
-    left:${p => p.left}px;
-    width:${p => p.width}px;
-    height:${p => p.height}px;
+    top: ${p => p.top}px;
+    left: ${p => p.left}px;
+    width: ${p => p.width}px;
+    height: ${p => p.height}px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -69,21 +58,21 @@ const Shelf = styled.div`
     border-radius: 3px;
     font-size: 35px;
     background-color: yellow;
-    cursor:pointer;
+    cursor: pointer;
 `
 const StoreTiles = styled.div`
-    position:relative;
+    position: relative;
     display: grid ;
     grid-template-columns: ${props => `repeat(${props.columns}, 1fr)`};
     
 `
 const Tile = styled.div`
-    border: 1px dashed;
+    border: 1px dashed lightslategray;
     width: ${props => props.size}px;
     height: ${props => props.size}px;
     display:flex;
-    justify-content:center;
-    align-items:center;
+    justify-content: center;
+    align-items: center;
 `
 const Title = styled.h1`
  	font-family: Arial, Helvetica, sans-serif;

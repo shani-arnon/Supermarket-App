@@ -1,9 +1,10 @@
 import React, { Component } from 'react'
-
-
+import Modal from 'react-responsive-modal';
 import GlobalStyle from './GlobalStyles'
-
 import Supermarket from './Supermarket'
+import ProductsList from "./ProductsList"
+import DATA from "../src/data/DATA.json"
+
 
 class App extends Component {
   state = {
@@ -12,10 +13,21 @@ class App extends Component {
     store_length: 0,
     tile_size: 0,
     shelves: [],
+    shelf_inventory: [],
+    products: DATA,
     show_shelf_inventory: false,
-    shelf_inventory: []
   }
 
+  openModal = () => {
+    this.setState({
+      show_shelf_inventory: true
+    })
+  }
+  closeModal = () => {
+    this.setState({
+      show_shelf_inventory: false
+    })
+  }
 
   async componentDidMount() {
     let data = await fetch('/api/store')
@@ -40,10 +52,15 @@ class App extends Component {
     })
   }
   render() {
+    const { show_shelf_inventory } = this.state
     return (
       //Supermarket container
       <div>
         <Supermarket {...this.state} get_shelf_inventory={this.get_shelf_inventory} />
+        <Modal open={show_shelf_inventory} onClose={this.closeModal} center>
+          <h1>Products List</h1>
+          <ProductsList products_list={this.state.shelf_inventory} />
+        </Modal>
         <GlobalStyle />
       </div>
     );
