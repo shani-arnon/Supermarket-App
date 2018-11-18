@@ -3,7 +3,7 @@ import Modal from 'react-responsive-modal';
 import GlobalStyle from './GlobalStyles'
 import Supermarket from './Supermarket'
 import ProductsList from "./ProductsList"
-import DATA from "../src/data/DATA.json"
+import DATA from "./data/DATA.json"
 
 
 class App extends Component {

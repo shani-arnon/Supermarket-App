@@ -32,6 +32,7 @@ const GlobalStyle = createGlobalStyle`
   }
   li:hover {
     background: gold
+  
   }
   h1 {
     padding-left: 2rem;
