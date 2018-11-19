@@ -3,7 +3,6 @@ import Modal from 'react-responsive-modal';
 import GlobalStyle from './GlobalStyles'
 import Supermarket from './Supermarket'
 import ProductsList from "./ProductsList"
-import DATA from "./data/DATA.json"
 
 
 class App extends Component {
@@ -14,7 +13,7 @@ class App extends Component {
     tile_size: 0,
     shelves: [],
     shelf_inventory: [],
-    products: DATA,
+    products: [],
     show_shelf_inventory: false,
   }
 
@@ -58,7 +57,7 @@ class App extends Component {
       <div>
         <Supermarket {...this.state} get_shelf_inventory={this.get_shelf_inventory} />
         <Modal open={show_shelf_inventory} onClose={this.closeModal} center>
-          <h1>Products List</h1>
+          {/* <h1>Products List</h1> */}
           <ProductsList products_list={this.state.shelf_inventory} />
         </Modal>
         <GlobalStyle />

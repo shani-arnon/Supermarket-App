@@ -5,27 +5,33 @@ const Product = ({ name, shelf, productNumber }) => {
     // console.log('name', name)
     // console.log('shelf', shelf)
     return (
-        <productBox>
-            <productName>Product Name: {name} </productName><br />
-            <productData>Shelf No: {shelf}<br />
-                Product No: {productNumber}
-            </productData>
-        </productBox>
+        <>
+            <ProductBox>
+                <ProductName>{name}</ProductName>
+                <ProductData>
+                    Product No: {productNumber}
+                </ProductData>
+            </ProductBox>
+        </>
     )
 }
 export default Product
 
-const productBox = styled.div`
-    background: oldlace;
+const ProductBox = styled.div`
+    background: white;
+    padding-bottom: 1.5rem;
+    border: 4px solid skyblue;
+    display: flex;
+    flex-direction: column;
+    padding-top: 1rem;
 `
-const productName = styled.div`
+const ProductName = styled.div`
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    font-size: 4rem;
-    margin-top: 1.5rem;
+    font-size: 2rem;
 `
-const productData = styled.div`
+
+const ProductData = styled.div`
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 2.5rem;
-    margin-top: 1.5rem;
+    font-size: 2rem;
 `

@@ -20,25 +20,7 @@ const GlobalStyle = createGlobalStyle`
     /* margin: 50px; */
     background-attachment: fixed;
 
-  }
-  li {
-    list-style-type: none;
-  }
-  li:nth-child(even) {
-    background: white
-  }
-  li:nth-child(odd) {
-    background: plum
-  }
-  li:hover {
-    background: gold
-  
-  }
-  h1 {
-    padding-left: 2rem;
-    margin-bottom: 2rem;
-  }
-
+  } 
 `
 
 export default GlobalStyle;
