@@ -57,7 +57,6 @@ class App extends Component {
       <div>
         <Supermarket {...this.state} get_shelf_inventory={this.get_shelf_inventory} />
         <Modal open={show_shelf_inventory} onClose={this.closeModal} center>
-          {/* <h1>Products List</h1> */}
           <ProductsList products_list={this.state.shelf_inventory} />
         </Modal>
         <GlobalStyle />

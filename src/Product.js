@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-const Product = ({ name, shelf, productNumber }) => {
+const Product = ({ name, productNumber }) => {
     // console.log('name', name)
     // console.log('shelf', shelf)
     return (
@@ -18,9 +18,8 @@ const Product = ({ name, shelf, productNumber }) => {
 export default Product
 
 const ProductBox = styled.div`
-    background: white;
     padding-bottom: 1.5rem;
-    border: 4px solid skyblue;
+    border-bottom: 1px solid lightgrey;
     display: flex;
     flex-direction: column;
     padding-top: 1rem;
